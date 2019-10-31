@@ -3,15 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/authors/sasha/</loc>
+    <lastmod>2019-10-31T16:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/augmented-reality/</loc>
+    <lastmod>2019-10-31T16:45:35-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2019-10-31T16:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/believable/</loc>
+    <lastmod>2019-10-31T16:45:35-04:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2019-10-31T16:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/live-interactive-narratives/</loc>
+    <lastmod>2019-10-31T16:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/interactive-narratives/</loc>
+    <lastmod>2019-10-31T16:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mixed-reality/</loc>
+    <lastmod>2019-10-31T16:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/pcg/</loc>
+    <lastmod>2019-10-31T16:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-10-31T16:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-31T16:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-31T16:45:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chris/</loc>
+    <lastmod>2019-10-31T16:04:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/terra-rima/</loc>
+    <lastmod>2019-10-31T16:04:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chris-martens/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/aiide-2019-lyra/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sasha-azad/</loc>
+    <lastmod>2019-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,23 +111,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>
