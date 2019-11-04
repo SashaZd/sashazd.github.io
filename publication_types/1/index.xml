@@ -2,21 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Sasha Azad</title>
-    <link>/publication_types/1/</link>
-      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sashazd.github.io/publication_types/1/</link>
+      <atom:link href="https://sashazd.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Nov 2019 16:35:51 -0400</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>1</title>
-      <link>/publication_types/1/</link>
+      <link>https://sashazd.github.io/publication_types/1/</link>
     </image>
     
     <item>
+      <title>A Spectrum of Audience Interactivity for Entertainment Domains (Nominated for best paper)</title>
+      <link>https://sashazd.github.io/publication/icids-2019-spectrumlitreview/</link>
+      <pubDate>Fri, 22 Nov 2019 16:35:51 -0400</pubDate>
+      <guid>https://sashazd.github.io/publication/icids-2019-spectrumlitreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lyra: Simulating Believable Opinionated Virtual Characters</title>
-      <link>/publication/aiide-2019-lyra/</link>
+      <link>https://sashazd.github.io/publication/aiide-2019-lyra/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/aiide-2019-lyra/</guid>
+      <guid>https://sashazd.github.io/publication/aiide-2019-lyra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling Live Interactive Narratives with Mixed-Integer Linear Programming</title>
+      <link>https://sashazd.github.io/publication/aiide2017-linsp-drp/</link>
+      <pubDate>Tue, 07 Nov 2017 16:56:50 -0400</pubDate>
+      <guid>https://sashazd.github.io/publication/aiide2017-linsp-drp/</guid>
       <description></description>
     </item>
     

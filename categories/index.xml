@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Sasha Azad</title>
-    <link>/categories/</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sashazd.github.io/categories/</link>
+      <atom:link href="https://sashazd.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Oct 2019 16:45:35 -0400</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Categories</title>
-      <link>/categories/</link>
+      <link>https://sashazd.github.io/categories/</link>
     </image>
     
     <item>
       <title>PCG</title>
-      <link>/categories/pcg/</link>
+      <link>https://sashazd.github.io/categories/pcg/</link>
       <pubDate>Thu, 31 Oct 2019 16:45:35 -0400</pubDate>
-      <guid>/categories/pcg/</guid>
+      <guid>https://sashazd.github.io/categories/pcg/</guid>
       <description></description>
     </item>
     

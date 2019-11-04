@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Sasha Azad</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sashazd.github.io/project/</link>
+      <atom:link href="https://sashazd.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Oct 2019 16:45:35 -0400</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://sashazd.github.io/project/</link>
     </image>
     
     <item>
       <title>Live Interactive Narratives and Games</title>
-      <link>/project/interactive-narratives/</link>
+      <link>https://sashazd.github.io/project/interactive-narratives/</link>
       <pubDate>Thu, 31 Oct 2019 16:45:35 -0400</pubDate>
-      <guid>/project/interactive-narratives/</guid>
+      <guid>https://sashazd.github.io/project/interactive-narratives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terra Rima</title>
-      <link>/project/terra-rima/</link>
+      <link>https://sashazd.github.io/project/terra-rima/</link>
       <pubDate>Thu, 31 Oct 2019 16:04:51 -0400</pubDate>
-      <guid>/project/terra-rima/</guid>
+      <guid>https://sashazd.github.io/project/terra-rima/</guid>
       <description></description>
     </item>
     

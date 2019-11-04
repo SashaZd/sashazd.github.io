@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>augmented reality | Sasha Azad</title>
-    <link>/tags/augmented-reality/</link>
-      <atom:link href="/tags/augmented-reality/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sashazd.github.io/tags/augmented-reality/</link>
+      <atom:link href="https://sashazd.github.io/tags/augmented-reality/index.xml" rel="self" type="application/rss+xml" />
     <description>augmented reality</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Oct 2019 16:45:35 -0400</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>augmented reality</title>
-      <link>/tags/augmented-reality/</link>
+      <link>https://sashazd.github.io/tags/augmented-reality/</link>
     </image>
     
     <item>
       <title>Live Interactive Narratives and Games</title>
-      <link>/project/interactive-narratives/</link>
+      <link>https://sashazd.github.io/project/interactive-narratives/</link>
       <pubDate>Thu, 31 Oct 2019 16:45:35 -0400</pubDate>
-      <guid>/project/interactive-narratives/</guid>
+      <guid>https://sashazd.github.io/project/interactive-narratives/</guid>
       <description></description>
     </item>
     

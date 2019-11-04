@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Sasha Azad</title>
+    <link>https://sashazd.github.io/publication_types/0/</link>
+      <atom:link href="https://sashazd.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Oct 2016 16:04:02 -0500</lastBuildDate>
+    <image>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <title>0</title>
+      <link>https://sashazd.github.io/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>Mixed Reality Meets Procedural Content Generation in Video Games</title>
+      <link>https://sashazd.github.io/publication/aiide2016-mrpcgexag/</link>
+      <pubDate>Fri, 07 Oct 2016 16:04:02 -0500</pubDate>
+      <guid>https://sashazd.github.io/publication/aiide2016-mrpcgexag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
