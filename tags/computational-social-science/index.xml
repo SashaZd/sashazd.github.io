@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computational social science | Sasha Azad</title>
+    <link>https://sashazd.github.io/tags/computational-social-science/</link>
+      <atom:link href="https://sashazd.github.io/tags/computational-social-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>computational social science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Oct 2019 16:04:51 -0400</lastBuildDate>
+    <image>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <title>computational social science</title>
+      <link>https://sashazd.github.io/tags/computational-social-science/</link>
+    </image>
+    
+    <item>
+      <title>Terra Rima</title>
+      <link>https://sashazd.github.io/project/terra-rima/</link>
+      <pubDate>Thu, 31 Oct 2019 16:04:51 -0400</pubDate>
+      <guid>https://sashazd.github.io/project/terra-rima/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
