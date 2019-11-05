@@ -5,7 +5,7 @@
     <link>https://sashazd.github.io/categories/</link>
       <atom:link href="https://sashazd.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Oct 2019 16:45:35 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Nov 2019 16:35:51 -0400</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Categories</title>
@@ -13,10 +13,162 @@
     </image>
     
     <item>
+      <title>audience interactivity</title>
+      <link>https://sashazd.github.io/categories/audience-interactivity/</link>
+      <pubDate>Fri, 22 Nov 2019 16:35:51 -0400</pubDate>
+      <guid>https://sashazd.github.io/categories/audience-interactivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>human computer interaction</title>
+      <link>https://sashazd.github.io/categories/human-computer-interaction/</link>
+      <pubDate>Fri, 22 Nov 2019 16:35:51 -0400</pubDate>
+      <guid>https://sashazd.github.io/categories/human-computer-interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literature review</title>
+      <link>https://sashazd.github.io/categories/literature-review/</link>
+      <pubDate>Fri, 22 Nov 2019 16:35:51 -0400</pubDate>
+      <guid>https://sashazd.github.io/categories/literature-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case Based Reasoning</title>
+      <link>https://sashazd.github.io/categories/case-based-reasoning/</link>
+      <pubDate>Mon, 04 Nov 2019 19:19:33 -0500</pubDate>
+      <guid>https://sashazd.github.io/categories/case-based-reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://sashazd.github.io/categories/natural-language-processing/</link>
+      <pubDate>Mon, 04 Nov 2019 19:19:33 -0500</pubDate>
+      <guid>https://sashazd.github.io/categories/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similarity Measures</title>
+      <link>https://sashazd.github.io/categories/similarity-measures/</link>
+      <pubDate>Mon, 04 Nov 2019 19:19:33 -0500</pubDate>
+      <guid>https://sashazd.github.io/categories/similarity-measures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Believable Virtual Agents</title>
+      <link>https://sashazd.github.io/categories/believable-virtual-agents/</link>
+      <pubDate>Fri, 01 Nov 2019 16:22:25 -0400</pubDate>
+      <guid>https://sashazd.github.io/categories/believable-virtual-agents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive Modeling</title>
+      <link>https://sashazd.github.io/categories/cognitive-modeling/</link>
+      <pubDate>Fri, 01 Nov 2019 16:22:25 -0400</pubDate>
+      <guid>https://sashazd.github.io/categories/cognitive-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procedural Content Generation</title>
+      <link>https://sashazd.github.io/categories/procedural-content-generation/</link>
+      <pubDate>Fri, 01 Nov 2019 16:22:25 -0400</pubDate>
+      <guid>https://sashazd.github.io/categories/procedural-content-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serious Games</title>
+      <link>https://sashazd.github.io/categories/serious-games/</link>
+      <pubDate>Fri, 01 Nov 2019 16:22:25 -0400</pubDate>
+      <guid>https://sashazd.github.io/categories/serious-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Reasoning and Agency</title>
+      <link>https://sashazd.github.io/categories/social-reasoning-and-agency/</link>
+      <pubDate>Fri, 01 Nov 2019 16:22:25 -0400</pubDate>
+      <guid>https://sashazd.github.io/categories/social-reasoning-and-agency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PCG</title>
       <link>https://sashazd.github.io/categories/pcg/</link>
       <pubDate>Thu, 31 Oct 2019 16:45:35 -0400</pubDate>
       <guid>https://sashazd.github.io/categories/pcg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI for Design and Production</title>
+      <link>https://sashazd.github.io/categories/ai-for-design-and-production/</link>
+      <pubDate>Tue, 07 Nov 2017 16:56:50 -0400</pubDate>
+      <guid>https://sashazd.github.io/categories/ai-for-design-and-production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authoring Tools</title>
+      <link>https://sashazd.github.io/categories/authoring-tools/</link>
+      <pubDate>Tue, 07 Nov 2017 16:56:50 -0400</pubDate>
+      <guid>https://sashazd.github.io/categories/authoring-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Adaptation</title>
+      <link>https://sashazd.github.io/categories/dynamic-adaptation/</link>
+      <pubDate>Tue, 07 Nov 2017 16:56:50 -0400</pubDate>
+      <guid>https://sashazd.github.io/categories/dynamic-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Models</title>
+      <link>https://sashazd.github.io/categories/formal-models/</link>
+      <pubDate>Tue, 07 Nov 2017 16:56:50 -0400</pubDate>
+      <guid>https://sashazd.github.io/categories/formal-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Drama and Story Generation</title>
+      <link>https://sashazd.github.io/categories/interactive-drama-and-story-generation/</link>
+      <pubDate>Tue, 07 Nov 2017 16:56:50 -0400</pubDate>
+      <guid>https://sashazd.github.io/categories/interactive-drama-and-story-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategic Decision Making</title>
+      <link>https://sashazd.github.io/categories/strategic-decision-making/</link>
+      <pubDate>Tue, 07 Nov 2017 16:56:50 -0400</pubDate>
+      <guid>https://sashazd.github.io/categories/strategic-decision-making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual/Augmented/Mixed Reality</title>
+      <link>https://sashazd.github.io/categories/virtual/augmented/mixed-reality/</link>
+      <pubDate>Tue, 07 Nov 2017 16:56:50 -0400</pubDate>
+      <guid>https://sashazd.github.io/categories/virtual/augmented/mixed-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristics</title>
+      <link>https://sashazd.github.io/categories/heuristics/</link>
+      <pubDate>Fri, 07 Oct 2016 16:04:02 -0500</pubDate>
+      <guid>https://sashazd.github.io/categories/heuristics/</guid>
       <description></description>
     </item>
     

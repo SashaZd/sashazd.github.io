@@ -5,7 +5,7 @@
     <link>https://sashazd.github.io/tags/social-simulation/</link>
       <atom:link href="https://sashazd.github.io/tags/social-simulation/index.xml" rel="self" type="application/rss+xml" />
     <description>social simulation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Oct 2019 16:04:51 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 16:22:25 -0400</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>social simulation</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Ph.D. Quals - Lyra: Simulating Believable Opinionated NPCs (Extended)</title>
+      <link>https://sashazd.github.io/publication/phd-quals/</link>
+      <pubDate>Fri, 01 Nov 2019 16:22:25 -0400</pubDate>
+      <guid>https://sashazd.github.io/publication/phd-quals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Terra Rima</title>
       <link>https://sashazd.github.io/project/terra-rima/</link>
       <pubDate>Thu, 31 Oct 2019 16:04:51 -0400</pubDate>
       <guid>https://sashazd.github.io/project/terra-rima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lyra: Simulating Believable Opinionated Virtual Characters</title>
+      <link>https://sashazd.github.io/publication/aiide-2019-lyra/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://sashazd.github.io/publication/aiide-2019-lyra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addressing the Elephant in the Room: Opinionated Virtual Characters</title>
+      <link>https://sashazd.github.io/publication/exag18-lyra/</link>
+      <pubDate>Wed, 21 Nov 2018 19:33:55 -0500</pubDate>
+      <guid>https://sashazd.github.io/publication/exag18-lyra/</guid>
       <description></description>
     </item>
     

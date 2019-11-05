@@ -33,7 +33,12 @@
   </url>
   
   <url>
-    <loc>https://sashazd.github.io/tags/audience-interaction/</loc>
+    <loc>https://sashazd.github.io/categories/audience-interactivity/</loc>
+    <lastmod>2019-11-22T16:35:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/audience-interactivity/</loc>
     <lastmod>2019-11-22T16:35:51-04:00</lastmod>
   </url>
   
@@ -43,12 +48,37 @@
   </url>
   
   <url>
+    <loc>https://sashazd.github.io/categories/</loc>
+    <lastmod>2019-11-22T16:35:51-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sashazd.github.io/tags/entertainment/</loc>
     <lastmod>2019-11-22T16:35:51-04:00</lastmod>
   </url>
   
   <url>
+    <loc>https://sashazd.github.io/categories/human-computer-interaction/</loc>
+    <lastmod>2019-11-22T16:35:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/human-computer-interaction/</loc>
+    <lastmod>2019-11-22T16:35:51-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sashazd.github.io/tags/immersion/</loc>
+    <lastmod>2019-11-22T16:35:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/categories/literature-review/</loc>
+    <lastmod>2019-11-22T16:35:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/literature-review/</loc>
     <lastmod>2019-11-22T16:35:51-04:00</lastmod>
   </url>
   
@@ -78,6 +108,21 @@
   </url>
   
   <url>
+    <loc>https://sashazd.github.io/tags/biologically-inspired-design/</loc>
+    <lastmod>2019-11-04T19:19:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/case-based-reasoning/</loc>
+    <lastmod>2019-11-04T19:19:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/categories/case-based-reasoning/</loc>
+    <lastmod>2019-11-04T19:19:33-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sashazd.github.io/authors/evangelia-spiliopoulou/</loc>
     <lastmod>2019-11-04T19:19:33-05:00</lastmod>
   </url>
@@ -93,12 +138,37 @@
   </url>
   
   <url>
+    <loc>https://sashazd.github.io/tags/natural-language-processing/</loc>
+    <lastmod>2019-11-04T19:19:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/categories/natural-language-processing/</loc>
+    <lastmod>2019-11-04T19:19:33-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sashazd.github.io/authors/rishikesh-kulkarni/</loc>
     <lastmod>2019-11-04T19:19:33-05:00</lastmod>
   </url>
   
   <url>
+    <loc>https://sashazd.github.io/tags/sbf-modelling/</loc>
+    <lastmod>2019-11-04T19:19:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/semantic-annotation/</loc>
+    <lastmod>2019-11-04T19:19:33-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sashazd.github.io/authors/shruti-bhati/</loc>
+    <lastmod>2019-11-04T19:19:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/categories/similarity-measures/</loc>
     <lastmod>2019-11-04T19:19:33-05:00</lastmod>
   </url>
   
@@ -128,12 +198,42 @@
   </url>
   
   <url>
-    <loc>https://sashazd.github.io/tags/coding-scheme/</loc>
+    <loc>https://sashazd.github.io/tags/artificial-intelligence/</loc>
     <lastmod>2019-11-01T16:22:25-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sashazd.github.io/tags/frequency-analysis/</loc>
+    <loc>https://sashazd.github.io/tags/believability/</loc>
+    <lastmod>2019-11-01T16:22:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/categories/believable-virtual-agents/</loc>
+    <lastmod>2019-11-01T16:22:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/bias/</loc>
+    <lastmod>2019-11-01T16:22:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/categories/cognitive-modeling/</loc>
+    <lastmod>2019-11-01T16:22:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/human-subject-evaluation/</loc>
+    <lastmod>2019-11-01T16:22:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/machine-enculturation/</loc>
+    <lastmod>2019-11-01T16:22:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/narratives/</loc>
     <lastmod>2019-11-01T16:22:25-04:00</lastmod>
   </url>
   
@@ -143,7 +243,27 @@
   </url>
   
   <url>
-    <loc>https://sashazd.github.io/tags/qualitative/</loc>
+    <loc>https://sashazd.github.io/categories/procedural-content-generation/</loc>
+    <lastmod>2019-11-01T16:22:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/procedural-content-generation/</loc>
+    <lastmod>2019-11-01T16:22:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/categories/serious-games/</loc>
+    <lastmod>2019-11-01T16:22:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/categories/social-reasoning-and-agency/</loc>
+    <lastmod>2019-11-01T16:22:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/social-simulation/</loc>
     <lastmod>2019-11-01T16:22:25-04:00</lastmod>
   </url>
   
@@ -154,11 +274,6 @@
   
   <url>
     <loc>https://sashazd.github.io/tags/believable/</loc>
-    <lastmod>2019-10-31T16:45:35-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sashazd.github.io/categories/</loc>
     <lastmod>2019-10-31T16:45:35-04:00</lastmod>
   </url>
   
@@ -189,11 +304,6 @@
   
   <url>
     <loc>https://sashazd.github.io/tags/computational-social-science/</loc>
-    <lastmod>2019-10-31T16:04:51-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sashazd.github.io/tags/social-simulation/</loc>
     <lastmod>2019-10-31T16:04:51-04:00</lastmod>
   </url>
   
@@ -263,7 +373,27 @@
   </url>
   
   <url>
+    <loc>https://sashazd.github.io/categories/ai-for-design-and-production/</loc>
+    <lastmod>2017-11-07T16:56:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/categories/authoring-tools/</loc>
+    <lastmod>2017-11-07T16:56:50-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sashazd.github.io/authors/boyang-li/</loc>
+    <lastmod>2017-11-07T16:56:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/categories/dynamic-adaptation/</loc>
+    <lastmod>2017-11-07T16:56:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/categories/formal-models/</loc>
     <lastmod>2017-11-07T16:56:50-04:00</lastmod>
   </url>
   
@@ -273,7 +403,22 @@
   </url>
   
   <url>
+    <loc>https://sashazd.github.io/categories/interactive-drama-and-story-generation/</loc>
+    <lastmod>2017-11-07T16:56:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/interactive-narratives/</loc>
+    <lastmod>2017-11-07T16:56:50-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sashazd.github.io/authors/jingyang-xu/</loc>
+    <lastmod>2017-11-07T16:56:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/mixed-integer-linear-programming/</loc>
     <lastmod>2017-11-07T16:56:50-04:00</lastmod>
   </url>
   
@@ -283,7 +428,17 @@
   </url>
   
   <url>
-    <loc>https://sashazd.github.io/tags/resources/</loc>
+    <loc>https://sashazd.github.io/tags/plot-choices/</loc>
+    <lastmod>2017-11-07T16:56:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/real-world/</loc>
+    <lastmod>2017-11-07T16:56:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/resource-constrained/</loc>
     <lastmod>2017-11-07T16:56:50-04:00</lastmod>
   </url>
   
@@ -298,12 +453,22 @@
   </url>
   
   <url>
+    <loc>https://sashazd.github.io/categories/strategic-decision-making/</loc>
+    <lastmod>2017-11-07T16:56:50-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sashazd.github.io/tags/temporal-uncertainty/</loc>
     <lastmod>2017-11-07T16:56:50-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sashazd.github.io/publication_types/0/</loc>
+    <loc>https://sashazd.github.io/categories/virtual/augmented/mixed-reality/</loc>
+    <lastmod>2017-11-07T16:56:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/accessibility/</loc>
     <lastmod>2016-10-07T16:04:02-05:00</lastmod>
   </url>
   
@@ -318,6 +483,21 @@
   </url>
   
   <url>
+    <loc>https://sashazd.github.io/tags/evaluation-heuristics/</loc>
+    <lastmod>2016-10-07T16:04:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/tags/gameplay-experience/</loc>
+    <lastmod>2016-10-07T16:04:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/categories/heuristics/</loc>
+    <lastmod>2016-10-07T16:04:02-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sashazd.github.io/authors/mark-o.-riedl/</loc>
     <lastmod>2016-10-07T16:04:02-05:00</lastmod>
   </url>
@@ -328,8 +508,8 @@
   </url>
   
   <url>
-    <loc>https://sashazd.github.io/publication_types/10/</loc>
-    <lastmod>2016-10-07T15:11:02-05:00</lastmod>
+    <loc>https://sashazd.github.io/tags/physical-environment/</loc>
+    <lastmod>2016-10-07T16:04:02-05:00</lastmod>
   </url>
   
   <url>
