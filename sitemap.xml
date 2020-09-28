@@ -33,12 +33,12 @@
   </url>
   
   <url>
-    <loc>https://sashazd.github.io/categories/audience-interactivity/</loc>
+    <loc>https://sashazd.github.io/tags/audience-interactivity/</loc>
     <lastmod>2019-11-22T16:35:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sashazd.github.io/tags/audience-interactivity/</loc>
+    <loc>https://sashazd.github.io/categories/audience-interactivity/</loc>
     <lastmod>2019-11-22T16:35:51-04:00</lastmod>
   </url>
   
@@ -58,12 +58,12 @@
   </url>
   
   <url>
-    <loc>https://sashazd.github.io/categories/human-computer-interaction/</loc>
+    <loc>https://sashazd.github.io/tags/human-computer-interaction/</loc>
     <lastmod>2019-11-22T16:35:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sashazd.github.io/tags/human-computer-interaction/</loc>
+    <loc>https://sashazd.github.io/categories/human-computer-interaction/</loc>
     <lastmod>2019-11-22T16:35:51-04:00</lastmod>
   </url>
   
@@ -73,12 +73,12 @@
   </url>
   
   <url>
-    <loc>https://sashazd.github.io/categories/literature-review/</loc>
+    <loc>https://sashazd.github.io/tags/literature-review/</loc>
     <lastmod>2019-11-22T16:35:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sashazd.github.io/tags/literature-review/</loc>
+    <loc>https://sashazd.github.io/categories/literature-review/</loc>
     <lastmod>2019-11-22T16:35:51-04:00</lastmod>
   </url>
   
@@ -463,11 +463,6 @@
   </url>
   
   <url>
-    <loc>https://sashazd.github.io/categories/virtual/augmented/mixed-reality/</loc>
-    <lastmod>2017-11-07T16:56:50-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sashazd.github.io/tags/accessibility/</loc>
     <lastmod>2016-10-07T16:04:02-05:00</lastmod>
   </url>
@@ -527,6 +522,10 @@
   
   <url>
     <loc>https://sashazd.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sashazd.github.io/categories/virtual/augmented/mixed-reality/</loc>
   </url>
   
 </urlset>
