@@ -5,12 +5,20 @@
     <link>https://sashazd.github.io/categories/cognitive-modeling/</link>
       <atom:link href="https://sashazd.github.io/categories/cognitive-modeling/index.xml" rel="self" type="application/rss+xml" />
     <description>Cognitive Modeling</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 16:22:25 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 20:56:16 -0400</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Cognitive Modeling</title>
       <link>https://sashazd.github.io/categories/cognitive-modeling/</link>
     </image>
+    
+    <item>
+      <title>Little Computer People: A Survey and Taxonomy of Simulated Models of Social Interaction</title>
+      <link>https://sashazd.github.io/publication/chiplay2021-npctaxonomysurvey/</link>
+      <pubDate>Mon, 09 Aug 2021 20:56:16 -0400</pubDate>
+      <guid>https://sashazd.github.io/publication/chiplay2021-npctaxonomysurvey/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ph.D. Quals - Lyra: Simulating Believable Opinionated NPCs (Extended)</title>

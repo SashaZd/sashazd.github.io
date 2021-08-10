@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social behaviours | Sasha Azad</title>
+    <link>https://sashazd.github.io/tags/social-behaviours/</link>
+      <atom:link href="https://sashazd.github.io/tags/social-behaviours/index.xml" rel="self" type="application/rss+xml" />
+    <description>social behaviours</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 20:56:16 -0400</lastBuildDate>
+    <image>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <title>social behaviours</title>
+      <link>https://sashazd.github.io/tags/social-behaviours/</link>
+    </image>
+    
+    <item>
+      <title>Little Computer People: A Survey and Taxonomy of Simulated Models of Social Interaction</title>
+      <link>https://sashazd.github.io/publication/chiplay2021-npctaxonomysurvey/</link>
+      <pubDate>Mon, 09 Aug 2021 20:56:16 -0400</pubDate>
+      <guid>https://sashazd.github.io/publication/chiplay2021-npctaxonomysurvey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://sashazd.github.io/project/</link>
       <atom:link href="https://sashazd.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Oct 2019 16:45:35 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 21:22:41 -0400</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Projects</title>
       <link>https://sashazd.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Anthology</title>
+      <link>https://sashazd.github.io/project/anthology/</link>
+      <pubDate>Mon, 09 Aug 2021 21:22:41 -0400</pubDate>
+      <guid>https://sashazd.github.io/project/anthology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Live Interactive Narratives and Games</title>

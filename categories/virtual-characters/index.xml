@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virtual characters | Sasha Azad</title>
+    <link>https://sashazd.github.io/categories/virtual-characters/</link>
+      <atom:link href="https://sashazd.github.io/categories/virtual-characters/index.xml" rel="self" type="application/rss+xml" />
+    <description>virtual characters</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 21:22:41 -0400</lastBuildDate>
+    <image>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <title>virtual characters</title>
+      <link>https://sashazd.github.io/categories/virtual-characters/</link>
+    </image>
+    
+    <item>
+      <title>Anthology</title>
+      <link>https://sashazd.github.io/project/anthology/</link>
+      <pubDate>Mon, 09 Aug 2021 21:22:41 -0400</pubDate>
+      <guid>https://sashazd.github.io/project/anthology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
