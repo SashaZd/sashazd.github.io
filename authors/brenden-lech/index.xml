@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>10 | Sasha Azad</title>
-    <link>https://sashazd.github.io/publication_types/10/</link>
-      <atom:link href="https://sashazd.github.io/publication_types/10/index.xml" rel="self" type="application/rss+xml" />
-    <description>10</description>
+    <title>Brenden Lech | Sasha Azad</title>
+    <link>https://sashazd.github.io/authors/brenden-lech/</link>
+      <atom:link href="https://sashazd.github.io/authors/brenden-lech/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brenden Lech</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Oct 2021 16:14:12 -0400</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
-      <title>10</title>
-      <link>https://sashazd.github.io/publication_types/10/</link>
+      <title>Brenden Lech</title>
+      <link>https://sashazd.github.io/authors/brenden-lech/</link>
     </image>
+    
+    <item>
+      <title>Designing a Combined World and Story Procedural Content Generation Engine</title>
+      <link>https://sashazd.github.io/publication/blastbit-exag/</link>
+      <pubDate>Mon, 11 Oct 2021 16:14:12 -0400</pubDate>
+      <guid>https://sashazd.github.io/publication/blastbit-exag/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Intertwining World and Narrative Generation for a Mobile Role-playing Game</title>

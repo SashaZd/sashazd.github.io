@@ -5,12 +5,28 @@
     <link>https://sashazd.github.io/authors/chris-martens/</link>
       <atom:link href="https://sashazd.github.io/authors/chris-martens/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris Martens</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Oct 2021 16:14:12 -0400</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Chris Martens</title>
       <link>https://sashazd.github.io/authors/chris-martens/</link>
     </image>
+    
+    <item>
+      <title>Designing a Combined World and Story Procedural Content Generation Engine</title>
+      <link>https://sashazd.github.io/publication/blastbit-exag/</link>
+      <pubDate>Mon, 11 Oct 2021 16:14:12 -0400</pubDate>
+      <guid>https://sashazd.github.io/publication/blastbit-exag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intertwining World and Narrative Generation for a Mobile Role-playing Game</title>
+      <link>https://sashazd.github.io/publication/blastbit-practitioner/</link>
+      <pubDate>Mon, 11 Oct 2021 16:14:12 -0400</pubDate>
+      <guid>https://sashazd.github.io/publication/blastbit-practitioner/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lyra: Simulating Believable Opinionated Virtual Characters</title>
