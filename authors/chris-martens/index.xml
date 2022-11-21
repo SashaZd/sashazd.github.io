@@ -5,7 +5,7 @@
     <link>https://sashazd.github.io/authors/chris-martens/</link>
       <atom:link href="https://sashazd.github.io/authors/chris-martens/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris Martens</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Oct 2021 16:14:12 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Chris Martens</title>
@@ -13,26 +13,42 @@
     </image>
     
     <item>
+      <title>Anthology: A Social Simulation Framework</title>
+      <link>https://sashazd.github.io/publication/azad-2022-anthology/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sashazd.github.io/publication/azad-2022-anthology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Designing a Combined World and Story Procedural Content Generation Engine</title>
-      <link>https://sashazd.github.io/publication/blastbit-exag/</link>
+      <link>https://sashazd.github.io/publication/lech-2021-designing/</link>
       <pubDate>Mon, 11 Oct 2021 16:14:12 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/blastbit-exag/</guid>
+      <guid>https://sashazd.github.io/publication/lech-2021-designing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intertwining World and Narrative Generation for a Mobile Role-playing Game</title>
-      <link>https://sashazd.github.io/publication/blastbit-practitioner/</link>
+      <link>https://sashazd.github.io/publication/jonasson-2021-intertwining/</link>
       <pubDate>Mon, 11 Oct 2021 16:14:12 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/blastbit-practitioner/</guid>
+      <guid>https://sashazd.github.io/publication/jonasson-2021-intertwining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lyra: Simulating Believable Opinionated Virtual Characters</title>
-      <link>https://sashazd.github.io/publication/aiide-2019-lyra/</link>
+      <link>https://sashazd.github.io/publication/azad-2019-lyra/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://sashazd.github.io/publication/aiide-2019-lyra/</guid>
+      <guid>https://sashazd.github.io/publication/azad-2019-lyra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addressing the Elephant in the Room: Opinionated Virtual Characters.</title>
+      <link>https://sashazd.github.io/publication/azad-2018-addressing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sashazd.github.io/publication/azad-2018-addressing/</guid>
       <description></description>
     </item>
     

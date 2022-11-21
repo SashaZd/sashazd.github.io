@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jennifer Wellnitz | Sasha Azad</title>
+    <link>https://sashazd.github.io/authors/jennifer-wellnitz/</link>
+      <atom:link href="https://sashazd.github.io/authors/jennifer-wellnitz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jennifer Wellnitz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <title>Jennifer Wellnitz</title>
+      <link>https://sashazd.github.io/authors/jennifer-wellnitz/</link>
+    </image>
+    
+    <item>
+      <title>Anthology: A Social Simulation Framework</title>
+      <link>https://sashazd.github.io/publication/azad-2022-anthology/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sashazd.github.io/publication/azad-2022-anthology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

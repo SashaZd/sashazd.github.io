@@ -5,7 +5,7 @@
     <link>https://sashazd.github.io/publication_types/1/</link>
       <atom:link href="https://sashazd.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Nov 2019 16:35:51 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>1</title>
@@ -13,42 +13,66 @@
     </image>
     
     <item>
-      <title>A Spectrum of Audience Interactivity for Entertainment Domains (Won best paper)</title>
-      <link>https://sashazd.github.io/publication/icids-2019-spectrumlitreview/</link>
-      <pubDate>Fri, 22 Nov 2019 16:35:51 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/icids-2019-spectrumlitreview/</guid>
+      <title>Anthology: A Social Simulation Framework</title>
+      <link>https://sashazd.github.io/publication/azad-2022-anthology/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sashazd.github.io/publication/azad-2022-anthology/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Knowledge extraction and annotation for cross-domain textual case-based reasoning in biologically inspired design</title>
-      <link>https://sashazd.github.io/publication/icbr-cognopsi/</link>
-      <pubDate>Mon, 04 Nov 2019 19:19:33 -0500</pubDate>
-      <guid>https://sashazd.github.io/publication/icbr-cognopsi/</guid>
+      <title>A Spectrum of Audience Interactivity for Entertainment Domains (Won best paper)</title>
+      <link>https://sashazd.github.io/publication/striner-2019-spectrum/</link>
+      <pubDate>Fri, 22 Nov 2019 16:35:51 -0400</pubDate>
+      <guid>https://sashazd.github.io/publication/striner-2019-spectrum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lyra: Simulating Believable Opinionated Virtual Characters</title>
-      <link>https://sashazd.github.io/publication/aiide-2019-lyra/</link>
+      <link>https://sashazd.github.io/publication/azad-2019-lyra/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://sashazd.github.io/publication/aiide-2019-lyra/</guid>
+      <guid>https://sashazd.github.io/publication/azad-2019-lyra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addressing the Elephant in the Room: Opinionated Virtual Characters.</title>
+      <link>https://sashazd.github.io/publication/azad-2018-addressing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sashazd.github.io/publication/azad-2018-addressing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards generating narratives for the real world</title>
+      <link>https://sashazd.github.io/publication/azad-2018-towards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://sashazd.github.io/publication/azad-2018-towards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scheduling Live Interactive Narratives with Mixed-Integer Linear Programming</title>
-      <link>https://sashazd.github.io/publication/aiide2017-linsp-drp/</link>
+      <link>https://sashazd.github.io/publication/azad-2017-scheduling/</link>
       <pubDate>Tue, 07 Nov 2017 16:56:50 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/aiide2017-linsp-drp/</guid>
+      <guid>https://sashazd.github.io/publication/azad-2017-scheduling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge extraction and annotation for cross-domain textual case-based reasoning in biologically inspired design</title>
+      <link>https://sashazd.github.io/publication/rugaber-2016-knowledge/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://sashazd.github.io/publication/rugaber-2016-knowledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Procedural Level Generation for Augmented Reality Games</title>
-      <link>https://sashazd.github.io/publication/aiide2016-arpcgshort/</link>
+      <link>https://sashazd.github.io/publication/azad-2016-procedural/</link>
       <pubDate>Fri, 07 Oct 2016 15:11:02 -0500</pubDate>
-      <guid>https://sashazd.github.io/publication/aiide2016-arpcgshort/</guid>
+      <guid>https://sashazd.github.io/publication/azad-2016-procedural/</guid>
       <description></description>
     </item>
     
