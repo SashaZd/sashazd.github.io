@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>social relationships | Sasha Azad</title>
+    <title>Social Relationships | Sasha Azad</title>
     <link>https://sashazd.github.io/tags/social-relationships/</link>
       <atom:link href="https://sashazd.github.io/tags/social-relationships/index.xml" rel="self" type="application/rss+xml" />
-    <description>social relationships</description>
+    <description>Social Relationships</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Oct 2021 20:56:16 -0400</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
-      <title>social relationships</title>
+      <title>Social Relationships</title>
       <link>https://sashazd.github.io/tags/social-relationships/</link>
     </image>
     
     <item>
       <title>Little Computer People: A Survey and Taxonomy of Simulated Models of Social Interaction</title>
-      <link>https://sashazd.github.io/publication/azad-2021-little/</link>
+      <link>https://sashazd.github.io/publication/2021-azad-little/</link>
       <pubDate>Wed, 13 Oct 2021 20:56:16 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/azad-2021-little/</guid>
+      <guid>https://sashazd.github.io/publication/2021-azad-little/</guid>
       <description></description>
     </item>
     

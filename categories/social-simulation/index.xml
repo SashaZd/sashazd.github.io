@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Simulation | Sasha Azad</title>
+    <link>https://sashazd.github.io/categories/social-simulation/</link>
+      <atom:link href="https://sashazd.github.io/categories/social-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Simulation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Apr 2023 14:24:33 -0500</lastBuildDate>
+    <image>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <title>Social Simulation</title>
+      <link>https://sashazd.github.io/categories/social-simulation/</link>
+    </image>
+    
+    <item>
+      <title>Ph.D. Proposal - The Little Computer People Taxonomy and Social Physics Engine</title>
+      <link>https://sashazd.github.io/publication/phd-proposal/</link>
+      <pubDate>Fri, 28 Apr 2023 14:24:33 -0500</pubDate>
+      <guid>https://sashazd.github.io/publication/phd-proposal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

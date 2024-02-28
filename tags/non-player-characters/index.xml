@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>non-player characters | Sasha Azad</title>
+    <title>Non-Player Characters | Sasha Azad</title>
     <link>https://sashazd.github.io/tags/non-player-characters/</link>
       <atom:link href="https://sashazd.github.io/tags/non-player-characters/index.xml" rel="self" type="application/rss+xml" />
-    <description>non-player characters</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Oct 2021 20:56:16 -0400</lastBuildDate>
+    <description>Non-Player Characters</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Dec 2023 16:20:35 -0500</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
-      <title>non-player characters</title>
+      <title>Non-Player Characters</title>
       <link>https://sashazd.github.io/tags/non-player-characters/</link>
     </image>
     
     <item>
+      <title>Clockwork: A Discrete Event and Agent-Based Social Simulation Framework (In Review)</title>
+      <link>https://sashazd.github.io/publication/2024-azad-jaamasclockwork/</link>
+      <pubDate>Thu, 14 Dec 2023 16:20:35 -0500</pubDate>
+      <guid>https://sashazd.github.io/publication/2024-azad-jaamasclockwork/</guid>
+      <description>&lt;p&gt;Agent-based social simulation can be useful for creating digital twins of societies of interacting autonomous agents. Such simulations are useful for testing hypotheses about behaviour and belief change in the presence of interventions. In this paper, we introduce Clockwork, an efficient multi-agent simulation framework. The key contribution of this framework is integrating a behaviour-level simulation of autonomous agent schedules with a Discrete Event Simulator (DES) and a rich model of social interaction among agents modelled with Agent-Based Social Simulation (ABSS) methodology. Clockwork&amp;rsquo;s ability to simulate deterministic and stochastic events and changes in individual agent models due to the influence of other agents through event-based emergent interactions is novel. We describe the design, architecture, and development of the Clockwork framework. Combining DES and ABSS in this way enables the modelling of detailed individual agent histories while maintaining population-level statistical distributions. We evaluated Clockwork with a real-life scenario modelling the digital twin of employees at a real-world worksite to test the efficacy of various policies put in place to mitigate the risk of contracting COVID-19 through a hybrid or in-person work model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Little Computer People: A Survey and Taxonomy of Simulated Models of Social Interaction</title>
-      <link>https://sashazd.github.io/publication/azad-2021-little/</link>
+      <link>https://sashazd.github.io/publication/2021-azad-little/</link>
       <pubDate>Wed, 13 Oct 2021 20:56:16 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/azad-2021-little/</guid>
+      <guid>https://sashazd.github.io/publication/2021-azad-little/</guid>
       <description></description>
     </item>
     

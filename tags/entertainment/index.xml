@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>entertainment | Sasha Azad</title>
+    <title>Entertainment | Sasha Azad</title>
     <link>https://sashazd.github.io/tags/entertainment/</link>
       <atom:link href="https://sashazd.github.io/tags/entertainment/index.xml" rel="self" type="application/rss+xml" />
-    <description>entertainment</description>
+    <description>Entertainment</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Nov 2019 16:35:51 -0400</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
-      <title>entertainment</title>
+      <title>Entertainment</title>
       <link>https://sashazd.github.io/tags/entertainment/</link>
     </image>
     
     <item>
       <title>A Spectrum of Audience Interactivity for Entertainment Domains (Won best paper)</title>
-      <link>https://sashazd.github.io/publication/striner-2019-spectrum/</link>
+      <link>https://sashazd.github.io/publication/2019-striner-spectrum/</link>
       <pubDate>Fri, 22 Nov 2019 16:35:51 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/striner-2019-spectrum/</guid>
+      <guid>https://sashazd.github.io/publication/2019-striner-spectrum/</guid>
       <description></description>
     </item>
     

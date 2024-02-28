@@ -5,12 +5,20 @@
     <link>https://sashazd.github.io/publication_types/7/</link>
       <atom:link href="https://sashazd.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Apr 2023 14:24:33 -0500</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>7</title>
       <link>https://sashazd.github.io/publication_types/7/</link>
     </image>
+    
+    <item>
+      <title>Ph.D. Proposal - The Little Computer People Taxonomy and Social Physics Engine</title>
+      <link>https://sashazd.github.io/publication/phd-proposal/</link>
+      <pubDate>Fri, 28 Apr 2023 14:24:33 -0500</pubDate>
+      <guid>https://sashazd.github.io/publication/phd-proposal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ph.D. Quals - Lyra: Simulating Believable Opinionated NPCs (Extended)</title>

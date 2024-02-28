@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scheduling | Sasha Azad</title>
+    <title>Scheduling | Sasha Azad</title>
     <link>https://sashazd.github.io/tags/scheduling/</link>
       <atom:link href="https://sashazd.github.io/tags/scheduling/index.xml" rel="self" type="application/rss+xml" />
-    <description>scheduling</description>
+    <description>Scheduling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Nov 2017 16:56:50 -0400</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
-      <title>scheduling</title>
+      <title>Scheduling</title>
       <link>https://sashazd.github.io/tags/scheduling/</link>
     </image>
     
     <item>
       <title>Scheduling Live Interactive Narratives with Mixed-Integer Linear Programming</title>
-      <link>https://sashazd.github.io/publication/azad-2017-scheduling/</link>
+      <link>https://sashazd.github.io/publication/2017-azad-scheduling/</link>
       <pubDate>Tue, 07 Nov 2017 16:56:50 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/azad-2017-scheduling/</guid>
+      <guid>https://sashazd.github.io/publication/2017-azad-scheduling/</guid>
       <description></description>
     </item>
     
