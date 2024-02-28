@@ -14,41 +14,65 @@
     
     <item>
       <title>Anthology: A Social Simulation Framework</title>
-      <link>https://sashazd.github.io/publication/azad-2022-anthology/</link>
+      <link>https://sashazd.github.io/publication/2022-azad-anthology/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://sashazd.github.io/publication/azad-2022-anthology/</guid>
+      <guid>https://sashazd.github.io/publication/2022-azad-anthology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Little Computer People: A Survey and Taxonomy of Simulated Models of Social Interaction</title>
+      <link>https://sashazd.github.io/publication/2021-azad-little/</link>
+      <pubDate>Wed, 13 Oct 2021 20:56:16 -0400</pubDate>
+      <guid>https://sashazd.github.io/publication/2021-azad-little/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designing a Combined World and Story Procedural Content Generation Engine</title>
-      <link>https://sashazd.github.io/publication/lech-2021-designing/</link>
+      <link>https://sashazd.github.io/publication/2021-lech-designing/</link>
       <pubDate>Mon, 11 Oct 2021 16:14:12 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/lech-2021-designing/</guid>
+      <guid>https://sashazd.github.io/publication/2021-lech-designing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intertwining World and Narrative Generation for a Mobile Role-playing Game</title>
-      <link>https://sashazd.github.io/publication/jonasson-2021-intertwining/</link>
+      <link>https://sashazd.github.io/publication/2021-jonasson-intertwining/</link>
       <pubDate>Mon, 11 Oct 2021 16:14:12 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/jonasson-2021-intertwining/</guid>
+      <guid>https://sashazd.github.io/publication/2021-jonasson-intertwining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Spectrum of Audience Interactivity for Entertainment Domains (Won best paper)</title>
+      <link>https://sashazd.github.io/publication/2019-striner-spectrum/</link>
+      <pubDate>Fri, 22 Nov 2019 16:35:51 -0400</pubDate>
+      <guid>https://sashazd.github.io/publication/2019-striner-spectrum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lyra: Simulating Believable Opinionated Virtual Characters</title>
-      <link>https://sashazd.github.io/publication/azad-2019-lyra/</link>
+      <link>https://sashazd.github.io/publication/2019-azad-lyra/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://sashazd.github.io/publication/azad-2019-lyra/</guid>
+      <guid>https://sashazd.github.io/publication/2019-azad-lyra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Villanelle: Towards Authorable Autonomous Characters in Interactive Narrative</title>
+      <link>https://sashazd.github.io/publication/2018-martens-villanelle/</link>
+      <pubDate>Wed, 21 Nov 2018 13:56:39 -0500</pubDate>
+      <guid>https://sashazd.github.io/publication/2018-martens-villanelle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Addressing the Elephant in the Room: Opinionated Virtual Characters.</title>
-      <link>https://sashazd.github.io/publication/azad-2018-addressing/</link>
+      <link>https://sashazd.github.io/publication/2018-azad-addressing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://sashazd.github.io/publication/azad-2018-addressing/</guid>
+      <guid>https://sashazd.github.io/publication/2018-azad-addressing/</guid>
       <description></description>
     </item>
     

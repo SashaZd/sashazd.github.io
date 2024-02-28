@@ -5,12 +5,44 @@
     <link>https://sashazd.github.io/talk/</link>
       <atom:link href="https://sashazd.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jan 2024 16:59:49 -0500</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://sashazd.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Artificial Intelligence and Agent-Based Social Simulations Research - Little Computer People</title>
+      <link>https://sashazd.github.io/talk/2024-ucpoly-googlecsr/</link>
+      <pubDate>Fri, 19 Jan 2024 16:59:49 -0500</pubDate>
+      <guid>https://sashazd.github.io/talk/2024-ucpoly-googlecsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative AI in Simulated Environments</title>
+      <link>https://sashazd.github.io/talk/2018-umumbai-generativeaisimulation/</link>
+      <pubDate>Thu, 20 Dec 2018 17:16:27 -0500</pubDate>
+      <guid>https://sashazd.github.io/talk/2018-umumbai-generativeaisimulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building and Sustaining a Computer Science Innovation Ecosystem</title>
+      <link>https://sashazd.github.io/talk/2017-upitt-nsficorps/</link>
+      <pubDate>Sun, 19 Feb 2017 17:20:11 -0500</pubDate>
+      <guid>https://sashazd.github.io/talk/2017-upitt-nsficorps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence and Procedural Content Generation in Mixed Reality Environments</title>
+      <link>https://sashazd.github.io/talk/2015-ggdc-keynote/</link>
+      <pubDate>Tue, 28 Jun 2016 17:23:42 -0500</pubDate>
+      <guid>https://sashazd.github.io/talk/2015-ggdc-keynote/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

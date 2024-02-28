@@ -5,7 +5,7 @@
     <link>https://sashazd.github.io/categories/authoring-tools/</link>
       <atom:link href="https://sashazd.github.io/categories/authoring-tools/index.xml" rel="self" type="application/rss+xml" />
     <description>Authoring Tools</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Nov 2017 16:56:50 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 21:22:41 -0400</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Authoring Tools</title>
@@ -13,26 +13,36 @@
     </image>
     
     <item>
+      <title>Authoring Tools</title>
+      <link>https://sashazd.github.io/project/authoring-tools/</link>
+      <pubDate>Mon, 09 Aug 2021 21:22:41 -0400</pubDate>
+      <guid>https://sashazd.github.io/project/authoring-tools/</guid>
+      <description>&lt;p&gt;The designing of interactive narratives, explorable worlds and the intelligent autonomous characters that populate them is complex. Social simulation of human communities requires a rich representation of human interactions, efficient computational techniques, and intuitive interfaces to craft parameters. This human-centered research project contributes a taxonomy, AI computational framework for authoring agents, and AAI social simulation authoring tools developed systematically and thoughtfully with participatory design methodologies.&lt;/p&gt;
+&lt;p&gt;These research artefacts are developed within the context of an ongoing research agenda to integrate AI techniques from social simulation games and computational social science to enable storytelling, and data analysis for researchers that model and reason about the complex dynamics of human social behavior.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Scheduling Live Interactive Narratives with Mixed-Integer Linear Programming</title>
-      <link>https://sashazd.github.io/publication/azad-2017-scheduling/</link>
+      <link>https://sashazd.github.io/publication/2017-azad-scheduling/</link>
       <pubDate>Tue, 07 Nov 2017 16:56:50 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/azad-2017-scheduling/</guid>
+      <guid>https://sashazd.github.io/publication/2017-azad-scheduling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixed Reality Meets Procedural Content Generation in Video Games</title>
-      <link>https://sashazd.github.io/publication/azad-2016-mixed/</link>
+      <link>https://sashazd.github.io/publication/2016-azad-mixed/</link>
       <pubDate>Fri, 07 Oct 2016 16:04:02 -0500</pubDate>
-      <guid>https://sashazd.github.io/publication/azad-2016-mixed/</guid>
+      <guid>https://sashazd.github.io/publication/2016-azad-mixed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Procedural Level Generation for Augmented Reality Games</title>
-      <link>https://sashazd.github.io/publication/azad-2016-procedural/</link>
+      <link>https://sashazd.github.io/publication/2016-azad-procedural/</link>
       <pubDate>Fri, 07 Oct 2016 15:11:02 -0500</pubDate>
-      <guid>https://sashazd.github.io/publication/azad-2016-procedural/</guid>
+      <guid>https://sashazd.github.io/publication/2016-azad-procedural/</guid>
       <description></description>
     </item>
     

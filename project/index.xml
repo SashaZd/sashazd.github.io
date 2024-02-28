@@ -5,7 +5,7 @@
     <link>https://sashazd.github.io/project/</link>
       <atom:link href="https://sashazd.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 21:22:41 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jan 2024 16:04:51 -0400</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,26 +13,48 @@
     </image>
     
     <item>
-      <title>Anthology</title>
-      <link>https://sashazd.github.io/project/anthology/</link>
+      <title>Little Computer People</title>
+      <link>https://sashazd.github.io/project/little-computer-people/</link>
+      <pubDate>Wed, 31 Jan 2024 16:04:51 -0400</pubDate>
+      <guid>https://sashazd.github.io/project/little-computer-people/</guid>
+      <description>&lt;p&gt;The believability of social characters and their impact on the virtual worlds they belong to has long been studied and explored in art and literature. Modeling social agents is widely considered to be a long-term research goal in the fields of entertainment, ecology, and computational social science. Bolstered by this growing interest in simulating social agents, research on agent models has spanned topics such as planning, procedural storytelling, and decision-making. However, social simulation research groups work in isolation, designing and discussing their character models with disparate approaches, often using project-specific terminology. This disparity makes identifying, classifying, and accumulating existing knowledge in the domain challenging.&lt;/p&gt;
+&lt;p&gt;I propose that since the modeling of agents has become an integral part of the scientific practice in our field, we must develop a common taxonomy and framework to discuss and simulate these agents. With this goal in mind, we conducted an in-depth analysis of a selection of projects, categorizing existing agent social interactions and comparing results from research-based and commercial social simulation works in the entertainment domain. We conceptualized a taxonomy that classifies agent interactions by their inter-agent behaviors, formalizes rules for the interaction space, and describes the effect of these behaviors on the social state of the agents. Further, I was able to combine methodologies from agent-based simulation systems and discrete event simulation to create a modular and flexible social physics engine. To our knowledge, this is the first time these methodologies have been integrated in this way.&lt;/p&gt;
+&lt;p&gt;This project describes our efforts to evaluate and operationalize a taxonomy and an accompanying framework or ``social physics engine’’. Our taxonomy and accompanying framework would allow scientists to reproduce and evaluate existing models, collaborate on standards, share advances with other researchers and practitioners, allow for better communication and methodologies developed for new techniques, and allow for a more rigorous model-to-model analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Authoring Tools</title>
+      <link>https://sashazd.github.io/project/authoring-tools/</link>
       <pubDate>Mon, 09 Aug 2021 21:22:41 -0400</pubDate>
-      <guid>https://sashazd.github.io/project/anthology/</guid>
-      <description></description>
+      <guid>https://sashazd.github.io/project/authoring-tools/</guid>
+      <description>&lt;p&gt;The designing of interactive narratives, explorable worlds and the intelligent autonomous characters that populate them is complex. Social simulation of human communities requires a rich representation of human interactions, efficient computational techniques, and intuitive interfaces to craft parameters. This human-centered research project contributes a taxonomy, AI computational framework for authoring agents, and AAI social simulation authoring tools developed systematically and thoughtfully with participatory design methodologies.&lt;/p&gt;
+&lt;p&gt;These research artefacts are developed within the context of an ongoing research agenda to integrate AI techniques from social simulation games and computational social science to enable storytelling, and data analysis for researchers that model and reason about the complex dynamics of human social behavior.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Live Interactive Narratives and Games</title>
-      <link>https://sashazd.github.io/project/interactive-narratives/</link>
+      <link>https://sashazd.github.io/project/live-interactive-narratives/</link>
       <pubDate>Thu, 31 Oct 2019 16:45:35 -0400</pubDate>
-      <guid>https://sashazd.github.io/project/interactive-narratives/</guid>
+      <guid>https://sashazd.github.io/project/live-interactive-narratives/</guid>
+      <description>&lt;p&gt;With the wide-scale availability of mobile devices, and more recently the adoption of augmented reality (AR) technologies, researchers have manually authored narratives to document cultural heritage and community-based narratives or goals as well as procedurally generated narratives for various geo-locations populated with NPCs. My research focuses on the affordances and constraints of real-world geographic constraints, logistics, lifestyles to generate interactive experiences for the real world.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence for Mixed Reality Entertainment</title>
+      <link>https://sashazd.github.io/project/mr-pcg/</link>
+      <pubDate>Thu, 27 Aug 2015 16:47:01 -0500</pubDate>
+      <guid>https://sashazd.github.io/project/mr-pcg/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Terra Rima</title>
-      <link>https://sashazd.github.io/project/terra-rima/</link>
-      <pubDate>Thu, 31 Oct 2019 16:04:51 -0400</pubDate>
-      <guid>https://sashazd.github.io/project/terra-rima/</guid>
+      <title>Other</title>
+      <link>https://sashazd.github.io/project/other/</link>
+      <pubDate>Fri, 28 Feb 2014 16:07:35 -0500</pubDate>
+      <guid>https://sashazd.github.io/project/other/</guid>
       <description></description>
     </item>
     
