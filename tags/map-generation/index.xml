@@ -5,7 +5,7 @@
     <link>https://sashazd.github.io/tags/map-generation/</link>
       <atom:link href="https://sashazd.github.io/tags/map-generation/index.xml" rel="self" type="application/rss+xml" />
     <description>Map Generation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2016 17:23:42 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Aug 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Map Generation</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Artificial Intelligence and Procedural Content Generation in Mixed Reality Environments</title>
+      <title>AI and Procedural Content Generation for Mixed Reality</title>
       <link>https://sashazd.github.io/talk/2015-ggdc-keynote/</link>
-      <pubDate>Tue, 28 Jun 2016 17:23:42 -0500</pubDate>
+      <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://sashazd.github.io/talk/2015-ggdc-keynote/</guid>
       <description></description>
     </item>

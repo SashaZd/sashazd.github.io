@@ -5,7 +5,7 @@
     <link>https://sashazd.github.io/authors/sasha-azad/</link>
       <atom:link href="https://sashazd.github.io/authors/sasha-azad/index.xml" rel="self" type="application/rss+xml" />
     <description>Sasha Azad</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jan 2024 16:59:49 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Sasha Azad</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://sashazd.github.io/authors/sasha-azad/</link>
-      <pubDate>Fri, 19 Jan 2024 16:59:49 -0500</pubDate>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://sashazd.github.io/authors/sasha-azad/</guid>
       <description>&lt;p&gt;I am a Ph.D. Computer Science student in the Principles of Expressive Machines (POEM) Lab under the advisement of Dr. Arnav Jhala and Dr. Chris Martens at NC State University. I model and study large populations of humans by simulating small-scale social interactions that take into account real-world geographic constraints, logistics, lifestyles, and social influence dynamics. With my research I aim to support a variety of applications, such as examining the implications of social science theories and developing playable, explorable story worlds. I believe my research would afford increased entertainment, immersion and replayability for users.&lt;/p&gt;
 &lt;p&gt;Most recently, I was a PhD Summer Research Intern at IBM Research. I designed and developed a simuluation that modelled the spread of COVID-19 amongst employees in a workplace using artificial intelligence and agent-based simulation techniques with the goal to mitigate the viral spread amongst employees.
@@ -27,7 +27,7 @@ Before that, I worked as a Research Lab Associate at Disney Research Pittsburgh 
     <item>
       <title>Artificial Intelligence and Agent-Based Social Simulations Research - Little Computer People</title>
       <link>https://sashazd.github.io/talk/2024-ucpoly-googlecsr/</link>
-      <pubDate>Fri, 19 Jan 2024 16:59:49 -0500</pubDate>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://sashazd.github.io/talk/2024-ucpoly-googlecsr/</guid>
       <description></description>
     </item>
@@ -108,7 +108,7 @@ Before that, I worked as a Research Lab Associate at Disney Research Pittsburgh 
     <item>
       <title>Generative AI in Simulated Environments</title>
       <link>https://sashazd.github.io/talk/2018-umumbai-generativeaisimulation/</link>
-      <pubDate>Thu, 20 Dec 2018 17:16:27 -0500</pubDate>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://sashazd.github.io/talk/2018-umumbai-generativeaisimulation/</guid>
       <description></description>
     </item>
@@ -148,7 +148,7 @@ Before that, I worked as a Research Lab Associate at Disney Research Pittsburgh 
     <item>
       <title>Building and Sustaining a Computer Science Innovation Ecosystem</title>
       <link>https://sashazd.github.io/talk/2017-upitt-nsficorps/</link>
-      <pubDate>Sun, 19 Feb 2017 17:20:11 -0500</pubDate>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://sashazd.github.io/talk/2017-upitt-nsficorps/</guid>
       <description></description>
     </item>
@@ -178,9 +178,9 @@ Before that, I worked as a Research Lab Associate at Disney Research Pittsburgh 
     </item>
     
     <item>
-      <title>Artificial Intelligence and Procedural Content Generation in Mixed Reality Environments</title>
+      <title>AI and Procedural Content Generation for Mixed Reality</title>
       <link>https://sashazd.github.io/talk/2015-ggdc-keynote/</link>
-      <pubDate>Tue, 28 Jun 2016 17:23:42 -0500</pubDate>
+      <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://sashazd.github.io/talk/2015-ggdc-keynote/</guid>
       <description></description>
     </item>
