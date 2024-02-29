@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>9 | Sasha Azad</title>
-    <link>https://sashazd.github.io/publication_types/9/</link>
-      <atom:link href="https://sashazd.github.io/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/9/</link>
+      <atom:link href="http://localhost:1313/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
     <description>9</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Oct 2021 16:14:12 -0400</lastBuildDate>
     <image>
-      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>9</title>
-      <link>https://sashazd.github.io/publication_types/9/</link>
+      <link>http://localhost:1313/publication_types/9/</link>
     </image>
     
     <item>
       <title>Designing a Combined World and Story Procedural Content Generation Engine</title>
-      <link>https://sashazd.github.io/publication/2021-lech-designing/</link>
+      <link>http://localhost:1313/publication/2021-lech-designing/</link>
       <pubDate>Mon, 11 Oct 2021 16:14:12 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/2021-lech-designing/</guid>
+      <guid>http://localhost:1313/publication/2021-lech-designing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Villanelle: Towards Authorable Autonomous Characters in Interactive Narrative</title>
-      <link>https://sashazd.github.io/publication/2018-martens-villanelle/</link>
+      <link>http://localhost:1313/publication/2018-martens-villanelle/</link>
       <pubDate>Wed, 21 Nov 2018 13:56:39 -0500</pubDate>
-      <guid>https://sashazd.github.io/publication/2018-martens-villanelle/</guid>
+      <guid>http://localhost:1313/publication/2018-martens-villanelle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixed Reality Meets Procedural Content Generation in Video Games</title>
-      <link>https://sashazd.github.io/publication/2016-azad-mixed/</link>
+      <link>http://localhost:1313/publication/2016-azad-mixed/</link>
       <pubDate>Fri, 07 Oct 2016 16:04:02 -0500</pubDate>
-      <guid>https://sashazd.github.io/publication/2016-azad-mixed/</guid>
+      <guid>http://localhost:1313/publication/2016-azad-mixed/</guid>
       <description></description>
     </item>
     

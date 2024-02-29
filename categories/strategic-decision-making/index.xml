@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Strategic Decision Making | Sasha Azad</title>
-    <link>https://sashazd.github.io/categories/strategic-decision-making/</link>
-      <atom:link href="https://sashazd.github.io/categories/strategic-decision-making/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/categories/strategic-decision-making/</link>
+      <atom:link href="http://localhost:1313/categories/strategic-decision-making/index.xml" rel="self" type="application/rss+xml" />
     <description>Strategic Decision Making</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Nov 2017 16:56:50 -0400</lastBuildDate>
     <image>
-      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Strategic Decision Making</title>
-      <link>https://sashazd.github.io/categories/strategic-decision-making/</link>
+      <link>http://localhost:1313/categories/strategic-decision-making/</link>
     </image>
     
     <item>
       <title>Scheduling Live Interactive Narratives with Mixed-Integer Linear Programming</title>
-      <link>https://sashazd.github.io/publication/2017-azad-scheduling/</link>
+      <link>http://localhost:1313/publication/2017-azad-scheduling/</link>
       <pubDate>Tue, 07 Nov 2017 16:56:50 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/2017-azad-scheduling/</guid>
+      <guid>http://localhost:1313/publication/2017-azad-scheduling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixed Reality Meets Procedural Content Generation in Video Games</title>
-      <link>https://sashazd.github.io/publication/2016-azad-mixed/</link>
+      <link>http://localhost:1313/publication/2016-azad-mixed/</link>
       <pubDate>Fri, 07 Oct 2016 16:04:02 -0500</pubDate>
-      <guid>https://sashazd.github.io/publication/2016-azad-mixed/</guid>
+      <guid>http://localhost:1313/publication/2016-azad-mixed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Procedural Level Generation for Augmented Reality Games</title>
-      <link>https://sashazd.github.io/publication/2016-azad-procedural/</link>
+      <link>http://localhost:1313/publication/2016-azad-procedural/</link>
       <pubDate>Fri, 07 Oct 2016 15:11:02 -0500</pubDate>
-      <guid>https://sashazd.github.io/publication/2016-azad-procedural/</guid>
+      <guid>http://localhost:1313/publication/2016-azad-procedural/</guid>
       <description></description>
     </item>
     

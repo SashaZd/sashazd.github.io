@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luis Garcia | Sasha Azad</title>
-    <link>https://sashazd.github.io/authors/luis-garcia/</link>
-      <atom:link href="https://sashazd.github.io/authors/luis-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/luis-garcia/</link>
+      <atom:link href="http://localhost:1313/authors/luis-garcia/index.xml" rel="self" type="application/rss+xml" />
     <description>Luis Garcia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Luis Garcia</title>
-      <link>https://sashazd.github.io/authors/luis-garcia/</link>
+      <link>http://localhost:1313/authors/luis-garcia/</link>
     </image>
     
     <item>
       <title>Anthology: A Social Simulation Framework</title>
-      <link>https://sashazd.github.io/publication/2022-azad-anthology/</link>
+      <link>http://localhost:1313/publication/2022-azad-anthology/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://sashazd.github.io/publication/2022-azad-anthology/</guid>
+      <guid>http://localhost:1313/publication/2022-azad-anthology/</guid>
       <description></description>
     </item>
     

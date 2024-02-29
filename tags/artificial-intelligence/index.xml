@@ -2,86 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artificial Intelligence | Sasha Azad</title>
-    <link>https://sashazd.github.io/tags/artificial-intelligence/</link>
-      <atom:link href="https://sashazd.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/artificial-intelligence/</link>
+      <atom:link href="http://localhost:1313/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <description>Artificial Intelligence</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Dec 2023 16:20:35 -0500</lastBuildDate>
     <image>
-      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Artificial Intelligence</title>
-      <link>https://sashazd.github.io/tags/artificial-intelligence/</link>
+      <link>http://localhost:1313/tags/artificial-intelligence/</link>
     </image>
     
     <item>
       <title>Clockwork: A Discrete Event and Agent-Based Social Simulation Framework (In Review)</title>
-      <link>https://sashazd.github.io/publication/2024-azad-jaamasclockwork/</link>
+      <link>http://localhost:1313/publication/2024-azad-jaamasclockwork/</link>
       <pubDate>Thu, 14 Dec 2023 16:20:35 -0500</pubDate>
-      <guid>https://sashazd.github.io/publication/2024-azad-jaamasclockwork/</guid>
+      <guid>http://localhost:1313/publication/2024-azad-jaamasclockwork/</guid>
       <description>&lt;p&gt;Agent-based social simulation can be useful for creating digital twins of societies of interacting autonomous agents. Such simulations are useful for testing hypotheses about behaviour and belief change in the presence of interventions. In this paper, we introduce Clockwork, an efficient multi-agent simulation framework. The key contribution of this framework is integrating a behaviour-level simulation of autonomous agent schedules with a Discrete Event Simulator (DES) and a rich model of social interaction among agents modelled with Agent-Based Social Simulation (ABSS) methodology. Clockwork&amp;rsquo;s ability to simulate deterministic and stochastic events and changes in individual agent models due to the influence of other agents through event-based emergent interactions is novel. We describe the design, architecture, and development of the Clockwork framework. Combining DES and ABSS in this way enables the modelling of detailed individual agent histories while maintaining population-level statistical distributions. We evaluated Clockwork with a real-life scenario modelling the digital twin of employees at a real-world worksite to test the efficacy of various policies put in place to mitigate the risk of contracting COVID-19 through a hybrid or in-person work model.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ph.D. Proposal - The Little Computer People Taxonomy and Social Physics Engine</title>
-      <link>https://sashazd.github.io/publication/phd-proposal/</link>
+      <link>http://localhost:1313/publication/phd-proposal/</link>
       <pubDate>Fri, 28 Apr 2023 14:24:33 -0500</pubDate>
-      <guid>https://sashazd.github.io/publication/phd-proposal/</guid>
+      <guid>http://localhost:1313/publication/phd-proposal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ph.D. Quals - Lyra: Simulating Believable Opinionated NPCs (Extended)</title>
-      <link>https://sashazd.github.io/publication/phd-quals/</link>
+      <link>http://localhost:1313/publication/phd-quals/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://sashazd.github.io/publication/phd-quals/</guid>
+      <guid>http://localhost:1313/publication/phd-quals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lyra: Simulating Believable Opinionated Virtual Characters</title>
-      <link>https://sashazd.github.io/publication/2019-azad-lyra/</link>
+      <link>http://localhost:1313/publication/2019-azad-lyra/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://sashazd.github.io/publication/2019-azad-lyra/</guid>
+      <guid>http://localhost:1313/publication/2019-azad-lyra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scheduling Live Interactive Narratives with Mixed-Integer Linear Programming</title>
-      <link>https://sashazd.github.io/publication/2017-azad-scheduling/</link>
+      <link>http://localhost:1313/publication/2017-azad-scheduling/</link>
       <pubDate>Tue, 07 Nov 2017 16:56:50 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/2017-azad-scheduling/</guid>
+      <guid>http://localhost:1313/publication/2017-azad-scheduling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixed Reality Meets Procedural Content Generation in Video Games</title>
-      <link>https://sashazd.github.io/publication/2016-azad-mixed/</link>
+      <link>http://localhost:1313/publication/2016-azad-mixed/</link>
       <pubDate>Fri, 07 Oct 2016 16:04:02 -0500</pubDate>
-      <guid>https://sashazd.github.io/publication/2016-azad-mixed/</guid>
+      <guid>http://localhost:1313/publication/2016-azad-mixed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Procedural Level Generation for Augmented Reality Games</title>
-      <link>https://sashazd.github.io/publication/2016-azad-procedural/</link>
+      <link>http://localhost:1313/publication/2016-azad-procedural/</link>
       <pubDate>Fri, 07 Oct 2016 15:11:02 -0500</pubDate>
-      <guid>https://sashazd.github.io/publication/2016-azad-procedural/</guid>
+      <guid>http://localhost:1313/publication/2016-azad-procedural/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI and Procedural Content Generation for Mixed Reality</title>
-      <link>https://sashazd.github.io/talk/2015-ggdc-keynote/</link>
+      <link>http://localhost:1313/talk/2015-ggdc-keynote/</link>
       <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://sashazd.github.io/talk/2015-ggdc-keynote/</guid>
+      <guid>http://localhost:1313/talk/2015-ggdc-keynote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artificial Intelligence for Mixed Reality Entertainment</title>
-      <link>https://sashazd.github.io/project/mr-pcg/</link>
+      <link>http://localhost:1313/project/mr-pcg/</link>
       <pubDate>Thu, 27 Aug 2015 16:47:01 -0500</pubDate>
-      <guid>https://sashazd.github.io/project/mr-pcg/</guid>
+      <guid>http://localhost:1313/project/mr-pcg/</guid>
       <description></description>
     </item>
     

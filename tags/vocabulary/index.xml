@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vocabulary | Sasha Azad</title>
-    <link>https://sashazd.github.io/tags/vocabulary/</link>
-      <atom:link href="https://sashazd.github.io/tags/vocabulary/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/vocabulary/</link>
+      <atom:link href="http://localhost:1313/tags/vocabulary/index.xml" rel="self" type="application/rss+xml" />
     <description>Vocabulary</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Oct 2021 20:56:16 -0400</lastBuildDate>
     <image>
-      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Vocabulary</title>
-      <link>https://sashazd.github.io/tags/vocabulary/</link>
+      <link>http://localhost:1313/tags/vocabulary/</link>
     </image>
     
     <item>
       <title>Little Computer People: A Survey and Taxonomy of Simulated Models of Social Interaction</title>
-      <link>https://sashazd.github.io/publication/2021-azad-little/</link>
+      <link>http://localhost:1313/publication/2021-azad-little/</link>
       <pubDate>Wed, 13 Oct 2021 20:56:16 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/2021-azad-little/</guid>
+      <guid>http://localhost:1313/publication/2021-azad-little/</guid>
       <description></description>
     </item>
     

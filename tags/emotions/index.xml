@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emotions | Sasha Azad</title>
-    <link>https://sashazd.github.io/tags/emotions/</link>
-      <atom:link href="https://sashazd.github.io/tags/emotions/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/emotions/</link>
+      <atom:link href="http://localhost:1313/tags/emotions/index.xml" rel="self" type="application/rss+xml" />
     <description>Emotions</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Oct 2021 20:56:16 -0400</lastBuildDate>
     <image>
-      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Emotions</title>
-      <link>https://sashazd.github.io/tags/emotions/</link>
+      <link>http://localhost:1313/tags/emotions/</link>
     </image>
     
     <item>
       <title>Little Computer People: A Survey and Taxonomy of Simulated Models of Social Interaction</title>
-      <link>https://sashazd.github.io/publication/2021-azad-little/</link>
+      <link>http://localhost:1313/publication/2021-azad-little/</link>
       <pubDate>Wed, 13 Oct 2021 20:56:16 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/2021-azad-little/</guid>
+      <guid>http://localhost:1313/publication/2021-azad-little/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Live Interactive Narratives | Sasha Azad</title>
-    <link>https://sashazd.github.io/tags/live-interactive-narratives/</link>
-      <atom:link href="https://sashazd.github.io/tags/live-interactive-narratives/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/live-interactive-narratives/</link>
+      <atom:link href="http://localhost:1313/tags/live-interactive-narratives/index.xml" rel="self" type="application/rss+xml" />
     <description>Live Interactive Narratives</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Oct 2019 16:45:35 -0400</lastBuildDate>
     <image>
-      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Live Interactive Narratives</title>
-      <link>https://sashazd.github.io/tags/live-interactive-narratives/</link>
+      <link>http://localhost:1313/tags/live-interactive-narratives/</link>
     </image>
     
     <item>
       <title>Live Interactive Narratives and Games</title>
-      <link>https://sashazd.github.io/project/live-interactive-narratives/</link>
+      <link>http://localhost:1313/project/live-interactive-narratives/</link>
       <pubDate>Thu, 31 Oct 2019 16:45:35 -0400</pubDate>
-      <guid>https://sashazd.github.io/project/live-interactive-narratives/</guid>
+      <guid>http://localhost:1313/project/live-interactive-narratives/</guid>
       <description>&lt;p&gt;With the wide-scale availability of mobile devices, and more recently the adoption of augmented reality (AR) technologies, researchers have manually authored narratives to document cultural heritage and community-based narratives or goals as well as procedurally generated narratives for various geo-locations populated with NPCs. My research focuses on the affordances and constraints of real-world geographic constraints, logistics, lifestyles to generate interactive experiences for the real world.&lt;/p&gt;
 </description>
     </item>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Believability | Sasha Azad</title>
-    <link>https://sashazd.github.io/tags/believability/</link>
-      <atom:link href="https://sashazd.github.io/tags/believability/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/believability/</link>
+      <atom:link href="http://localhost:1313/tags/believability/index.xml" rel="self" type="application/rss+xml" />
     <description>Believability</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Believability</title>
-      <link>https://sashazd.github.io/tags/believability/</link>
+      <link>http://localhost:1313/tags/believability/</link>
     </image>
     
     <item>
       <title>Ph.D. Quals - Lyra: Simulating Believable Opinionated NPCs (Extended)</title>
-      <link>https://sashazd.github.io/publication/phd-quals/</link>
+      <link>http://localhost:1313/publication/phd-quals/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://sashazd.github.io/publication/phd-quals/</guid>
+      <guid>http://localhost:1313/publication/phd-quals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lyra: Simulating Believable Opinionated Virtual Characters</title>
-      <link>https://sashazd.github.io/publication/2019-azad-lyra/</link>
+      <link>http://localhost:1313/publication/2019-azad-lyra/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://sashazd.github.io/publication/2019-azad-lyra/</guid>
+      <guid>http://localhost:1313/publication/2019-azad-lyra/</guid>
       <description></description>
     </item>
     

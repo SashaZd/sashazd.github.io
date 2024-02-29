@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Formal Models | Sasha Azad</title>
-    <link>https://sashazd.github.io/categories/formal-models/</link>
-      <atom:link href="https://sashazd.github.io/categories/formal-models/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/categories/formal-models/</link>
+      <atom:link href="http://localhost:1313/categories/formal-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Formal Models</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Nov 2017 16:56:50 -0400</lastBuildDate>
     <image>
-      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Formal Models</title>
-      <link>https://sashazd.github.io/categories/formal-models/</link>
+      <link>http://localhost:1313/categories/formal-models/</link>
     </image>
     
     <item>
       <title>Scheduling Live Interactive Narratives with Mixed-Integer Linear Programming</title>
-      <link>https://sashazd.github.io/publication/2017-azad-scheduling/</link>
+      <link>http://localhost:1313/publication/2017-azad-scheduling/</link>
       <pubDate>Tue, 07 Nov 2017 16:56:50 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/2017-azad-scheduling/</guid>
+      <guid>http://localhost:1313/publication/2017-azad-scheduling/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Literature Review | Sasha Azad</title>
-    <link>https://sashazd.github.io/categories/literature-review/</link>
-      <atom:link href="https://sashazd.github.io/categories/literature-review/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/categories/literature-review/</link>
+      <atom:link href="http://localhost:1313/categories/literature-review/index.xml" rel="self" type="application/rss+xml" />
     <description>Literature Review</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Nov 2019 16:35:51 -0400</lastBuildDate>
     <image>
-      <url>https://sashazd.github.io/img/icon-192.png</url>
+      <url>http://localhost:1313/img/icon-192.png</url>
       <title>Literature Review</title>
-      <link>https://sashazd.github.io/categories/literature-review/</link>
+      <link>http://localhost:1313/categories/literature-review/</link>
     </image>
     
     <item>
       <title>A Spectrum of Audience Interactivity for Entertainment Domains (Won best paper)</title>
-      <link>https://sashazd.github.io/publication/2019-striner-spectrum/</link>
+      <link>http://localhost:1313/publication/2019-striner-spectrum/</link>
       <pubDate>Fri, 22 Nov 2019 16:35:51 -0400</pubDate>
-      <guid>https://sashazd.github.io/publication/2019-striner-spectrum/</guid>
+      <guid>http://localhost:1313/publication/2019-striner-spectrum/</guid>
       <description></description>
     </item>
     
