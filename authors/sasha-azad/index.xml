@@ -185,5 +185,20 @@ Before that, I worked as a Research Lab Associate at Disney Research Pittsburgh 
       <description></description>
     </item>
     
+    <item>
+      <title>Player Modeling</title>
+      <link>https://sashazd.github.io/project/player-modeling/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://sashazd.github.io/project/player-modeling/</guid>
+      <description>&lt;p&gt;In this project we developed of an AI Game Playing agent that could play Isolation, a multiplayer puzzle game executed on a 8x8 grid. The proposed agent would be able to judge the personality type and skill level of the human playing the game and make moves to match this characterization of the player. In doing so, we aim to create a gaming system that is personalized - an important characteristic of an intelligent, interactive system.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Performed player modeling using machine learning to create a computational model that approximated a player’s behavior and skill level for a WebMobile and Android mobile board game.&lt;/li&gt;
+&lt;li&gt;Developed an AI opponent agent that used the results from player modeling to select play strategies that tailored its difficulty to match the player&amp;rsquo;s current characterization, improving or worsening dynamically with the player.&lt;/li&gt;
+&lt;li&gt;Conducted a human-subject studies to evaluate the AI opponent agent - users found the agent to be &amp;lsquo;&amp;lsquo;smart&amp;rsquo;&amp;rsquo;, describing the agent anthropomorphically as &amp;lsquo;&amp;lsquo;sneaky&amp;rsquo;&amp;rsquo;, &amp;lsquo;&amp;lsquo;aggressive&amp;rsquo;&amp;rsquo;, &amp;lsquo;&amp;lsquo;defensive&amp;rsquo;&amp;rsquo;, etc.&lt;/li&gt;
+&lt;li&gt;A second human-subject study was conducted, with players playing against either (a) a random agent (that users defeated over time as they gained skill), (b) a best move agent that used alpha-beta pruning (that no users were able to defeat), and (c) the proposed dynamic AI opponent. Users found the dynamic agent to be the most enjoyable opponent.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
