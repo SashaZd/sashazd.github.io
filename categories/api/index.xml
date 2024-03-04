@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Api | Sasha Azad</title>
-    <link>http://localhost:1313/categories/api/</link>
-      <atom:link href="http://localhost:1313/categories/api/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sashazd.github.io/categories/api/</link>
+      <atom:link href="https://sashazd.github.io/categories/api/index.xml" rel="self" type="application/rss+xml" />
     <description>Api</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 21:22:41 -0400</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Api</title>
-      <link>http://localhost:1313/categories/api/</link>
+      <link>https://sashazd.github.io/categories/api/</link>
     </image>
     
     <item>
       <title>Authoring Tools</title>
-      <link>http://localhost:1313/project/authoring-tools/</link>
+      <link>https://sashazd.github.io/project/authoring-tools/</link>
       <pubDate>Mon, 09 Aug 2021 21:22:41 -0400</pubDate>
-      <guid>http://localhost:1313/project/authoring-tools/</guid>
+      <guid>https://sashazd.github.io/project/authoring-tools/</guid>
       <description>&lt;p&gt;The designing of interactive narratives, explorable worlds and the intelligent autonomous characters that populate them is complex. Social simulation of human communities requires a rich representation of human interactions, efficient computational techniques, and intuitive interfaces to craft parameters. This human-centered research project contributes a taxonomy, AI computational framework for authoring agents, and AAI social simulation authoring tools developed systematically and thoughtfully with participatory design methodologies.&lt;/p&gt;
 &lt;p&gt;These research artefacts are developed within the context of an ongoing research agenda to integrate AI techniques from social simulation games and computational social science to enable storytelling, and data analysis for researchers that model and reason about the complex dynamics of human social behavior.&lt;/p&gt;
 </description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Human Computer Interaction | Sasha Azad</title>
-    <link>http://localhost:1313/categories/human-computer-interaction/</link>
-      <atom:link href="http://localhost:1313/categories/human-computer-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sashazd.github.io/categories/human-computer-interaction/</link>
+      <atom:link href="https://sashazd.github.io/categories/human-computer-interaction/index.xml" rel="self" type="application/rss+xml" />
     <description>Human Computer Interaction</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Nov 2019 16:35:51 -0400</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Human Computer Interaction</title>
-      <link>http://localhost:1313/categories/human-computer-interaction/</link>
+      <link>https://sashazd.github.io/categories/human-computer-interaction/</link>
     </image>
     
     <item>
       <title>A Spectrum of Audience Interactivity for Entertainment Domains (Won best paper)</title>
-      <link>http://localhost:1313/publication/2019-striner-spectrum/</link>
+      <link>https://sashazd.github.io/publication/2019-striner-spectrum/</link>
       <pubDate>Fri, 22 Nov 2019 16:35:51 -0400</pubDate>
-      <guid>http://localhost:1313/publication/2019-striner-spectrum/</guid>
+      <guid>https://sashazd.github.io/publication/2019-striner-spectrum/</guid>
       <description></description>
     </item>
     

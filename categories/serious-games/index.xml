@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Serious Games | Sasha Azad</title>
-    <link>http://localhost:1313/categories/serious-games/</link>
-      <atom:link href="http://localhost:1313/categories/serious-games/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sashazd.github.io/categories/serious-games/</link>
+      <atom:link href="https://sashazd.github.io/categories/serious-games/index.xml" rel="self" type="application/rss+xml" />
     <description>Serious Games</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Apr 2023 14:24:33 -0500</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Serious Games</title>
-      <link>http://localhost:1313/categories/serious-games/</link>
+      <link>https://sashazd.github.io/categories/serious-games/</link>
     </image>
     
     <item>
       <title>Ph.D. Proposal - The Little Computer People Taxonomy and Social Physics Engine</title>
-      <link>http://localhost:1313/publication/phd-proposal/</link>
+      <link>https://sashazd.github.io/publication/phd-proposal/</link>
       <pubDate>Fri, 28 Apr 2023 14:24:33 -0500</pubDate>
-      <guid>http://localhost:1313/publication/phd-proposal/</guid>
+      <guid>https://sashazd.github.io/publication/phd-proposal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ph.D. Quals - Lyra: Simulating Believable Opinionated NPCs (Extended)</title>
-      <link>http://localhost:1313/publication/phd-quals/</link>
+      <link>https://sashazd.github.io/publication/phd-quals/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/phd-quals/</guid>
+      <guid>https://sashazd.github.io/publication/phd-quals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lyra: Simulating Believable Opinionated Virtual Characters</title>
-      <link>http://localhost:1313/publication/2019-azad-lyra/</link>
+      <link>https://sashazd.github.io/publication/2019-azad-lyra/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2019-azad-lyra/</guid>
+      <guid>https://sashazd.github.io/publication/2019-azad-lyra/</guid>
       <description></description>
     </item>
     

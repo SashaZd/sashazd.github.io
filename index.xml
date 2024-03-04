@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sasha Azad</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sashazd.github.io/</link>
+      <atom:link href="https://sashazd.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sasha Azad</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jan 2024 16:04:51 -0400</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Sasha Azad</title>
-      <link>http://localhost:1313/</link>
+      <link>https://sashazd.github.io/</link>
     </image>
     
     <item>
       <title>Little Computer People</title>
-      <link>http://localhost:1313/project/little-computer-people/</link>
+      <link>https://sashazd.github.io/project/little-computer-people/</link>
       <pubDate>Wed, 31 Jan 2024 16:04:51 -0400</pubDate>
-      <guid>http://localhost:1313/project/little-computer-people/</guid>
+      <guid>https://sashazd.github.io/project/little-computer-people/</guid>
       <description>&lt;p&gt;The believability of social characters and their impact on the virtual worlds they belong to has long been studied and explored in art and literature. Modeling social agents is widely considered to be a long-term research goal in the fields of entertainment, ecology, and computational social science. Bolstered by this growing interest in simulating social agents, research on agent models has spanned topics such as planning, procedural storytelling, and decision-making. However, social simulation research groups work in isolation, designing and discussing their character models with disparate approaches, often using project-specific terminology. This disparity makes identifying, classifying, and accumulating existing knowledge in the domain challenging.&lt;/p&gt;
 &lt;p&gt;I propose that since the modeling of agents has become an integral part of the scientific practice in our field, we must develop a common taxonomy and framework to discuss and simulate these agents. With this goal in mind, we conducted an in-depth analysis of a selection of projects, categorizing existing agent social interactions and comparing results from research-based and commercial social simulation works in the entertainment domain. We conceptualized a taxonomy that classifies agent interactions by their inter-agent behaviors, formalizes rules for the interaction space, and describes the effect of these behaviors on the social state of the agents. Further, I was able to combine methodologies from agent-based simulation systems and discrete event simulation to create a modular and flexible social physics engine. To our knowledge, this is the first time these methodologies have been integrated in this way.&lt;/p&gt;
 &lt;p&gt;This project describes our efforts to evaluate and operationalize a taxonomy and an accompanying framework or ``social physics engine’’. Our taxonomy and accompanying framework would allow scientists to reproduce and evaluate existing models, collaborate on standards, share advances with other researchers and practitioners, allow for better communication and methodologies developed for new techniques, and allow for a more rigorous model-to-model analysis.&lt;/p&gt;
@@ -25,66 +25,66 @@
     
     <item>
       <title>Artificial Intelligence and Agent-Based Social Simulations Research - Little Computer People</title>
-      <link>http://localhost:1313/talk/2024-ucpoly-googlecsr/</link>
+      <link>https://sashazd.github.io/talk/2024-ucpoly-googlecsr/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2024-ucpoly-googlecsr/</guid>
+      <guid>https://sashazd.github.io/talk/2024-ucpoly-googlecsr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clockwork: A Discrete Event and Agent-Based Social Simulation Framework (In Review)</title>
-      <link>http://localhost:1313/publication/2024-azad-jaamasclockwork/</link>
+      <link>https://sashazd.github.io/publication/2024-azad-jaamasclockwork/</link>
       <pubDate>Thu, 14 Dec 2023 16:20:35 -0500</pubDate>
-      <guid>http://localhost:1313/publication/2024-azad-jaamasclockwork/</guid>
+      <guid>https://sashazd.github.io/publication/2024-azad-jaamasclockwork/</guid>
       <description>&lt;p&gt;Agent-based social simulation can be useful for creating digital twins of societies of interacting autonomous agents. Such simulations are useful for testing hypotheses about behaviour and belief change in the presence of interventions. In this paper, we introduce Clockwork, an efficient multi-agent simulation framework. The key contribution of this framework is integrating a behaviour-level simulation of autonomous agent schedules with a Discrete Event Simulator (DES) and a rich model of social interaction among agents modelled with Agent-Based Social Simulation (ABSS) methodology. Clockwork&amp;rsquo;s ability to simulate deterministic and stochastic events and changes in individual agent models due to the influence of other agents through event-based emergent interactions is novel. We describe the design, architecture, and development of the Clockwork framework. Combining DES and ABSS in this way enables the modelling of detailed individual agent histories while maintaining population-level statistical distributions. We evaluated Clockwork with a real-life scenario modelling the digital twin of employees at a real-world worksite to test the efficacy of various policies put in place to mitigate the risk of contracting COVID-19 through a hybrid or in-person work model.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ph.D. Proposal - The Little Computer People Taxonomy and Social Physics Engine</title>
-      <link>http://localhost:1313/publication/phd-proposal/</link>
+      <link>https://sashazd.github.io/publication/phd-proposal/</link>
       <pubDate>Fri, 28 Apr 2023 14:24:33 -0500</pubDate>
-      <guid>http://localhost:1313/publication/phd-proposal/</guid>
+      <guid>https://sashazd.github.io/publication/phd-proposal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anthology: A Social Simulation Framework</title>
-      <link>http://localhost:1313/publication/2022-azad-anthology/</link>
+      <link>https://sashazd.github.io/publication/2022-azad-anthology/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2022-azad-anthology/</guid>
+      <guid>https://sashazd.github.io/publication/2022-azad-anthology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Little Computer People: A Survey and Taxonomy of Simulated Models of Social Interaction</title>
-      <link>http://localhost:1313/publication/2021-azad-little/</link>
+      <link>https://sashazd.github.io/publication/2021-azad-little/</link>
       <pubDate>Wed, 13 Oct 2021 20:56:16 -0400</pubDate>
-      <guid>http://localhost:1313/publication/2021-azad-little/</guid>
+      <guid>https://sashazd.github.io/publication/2021-azad-little/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designing a Combined World and Story Procedural Content Generation Engine</title>
-      <link>http://localhost:1313/publication/2021-lech-designing/</link>
+      <link>https://sashazd.github.io/publication/2021-lech-designing/</link>
       <pubDate>Mon, 11 Oct 2021 16:14:12 -0400</pubDate>
-      <guid>http://localhost:1313/publication/2021-lech-designing/</guid>
+      <guid>https://sashazd.github.io/publication/2021-lech-designing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intertwining World and Narrative Generation for a Mobile Role-playing Game</title>
-      <link>http://localhost:1313/publication/2021-jonasson-intertwining/</link>
+      <link>https://sashazd.github.io/publication/2021-jonasson-intertwining/</link>
       <pubDate>Mon, 11 Oct 2021 16:14:12 -0400</pubDate>
-      <guid>http://localhost:1313/publication/2021-jonasson-intertwining/</guid>
+      <guid>https://sashazd.github.io/publication/2021-jonasson-intertwining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Authoring Tools</title>
-      <link>http://localhost:1313/project/authoring-tools/</link>
+      <link>https://sashazd.github.io/project/authoring-tools/</link>
       <pubDate>Mon, 09 Aug 2021 21:22:41 -0400</pubDate>
-      <guid>http://localhost:1313/project/authoring-tools/</guid>
+      <guid>https://sashazd.github.io/project/authoring-tools/</guid>
       <description>&lt;p&gt;The designing of interactive narratives, explorable worlds and the intelligent autonomous characters that populate them is complex. Social simulation of human communities requires a rich representation of human interactions, efficient computational techniques, and intuitive interfaces to craft parameters. This human-centered research project contributes a taxonomy, AI computational framework for authoring agents, and AAI social simulation authoring tools developed systematically and thoughtfully with participatory design methodologies.&lt;/p&gt;
 &lt;p&gt;These research artefacts are developed within the context of an ongoing research agenda to integrate AI techniques from social simulation games and computational social science to enable storytelling, and data analysis for researchers that model and reason about the complex dynamics of human social behavior.&lt;/p&gt;
 </description>
@@ -92,138 +92,138 @@
     
     <item>
       <title>A Spectrum of Audience Interactivity for Entertainment Domains (Won best paper)</title>
-      <link>http://localhost:1313/publication/2019-striner-spectrum/</link>
+      <link>https://sashazd.github.io/publication/2019-striner-spectrum/</link>
       <pubDate>Fri, 22 Nov 2019 16:35:51 -0400</pubDate>
-      <guid>http://localhost:1313/publication/2019-striner-spectrum/</guid>
+      <guid>https://sashazd.github.io/publication/2019-striner-spectrum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ph.D. Quals - Lyra: Simulating Believable Opinionated NPCs (Extended)</title>
-      <link>http://localhost:1313/publication/phd-quals/</link>
+      <link>https://sashazd.github.io/publication/phd-quals/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/phd-quals/</guid>
+      <guid>https://sashazd.github.io/publication/phd-quals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Live Interactive Narratives and Games</title>
-      <link>http://localhost:1313/project/live-interactive-narratives/</link>
+      <link>https://sashazd.github.io/project/live-interactive-narratives/</link>
       <pubDate>Thu, 31 Oct 2019 16:45:35 -0400</pubDate>
-      <guid>http://localhost:1313/project/live-interactive-narratives/</guid>
+      <guid>https://sashazd.github.io/project/live-interactive-narratives/</guid>
       <description>&lt;p&gt;With the wide-scale availability of mobile devices, and more recently the adoption of augmented reality (AR) technologies, researchers have manually authored narratives to document cultural heritage and community-based narratives or goals as well as procedurally generated narratives for various geo-locations populated with NPCs. My research focuses on the affordances and constraints of real-world geographic constraints, logistics, lifestyles to generate interactive experiences for the real world.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lyra: Simulating Believable Opinionated Virtual Characters</title>
-      <link>http://localhost:1313/publication/2019-azad-lyra/</link>
+      <link>https://sashazd.github.io/publication/2019-azad-lyra/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2019-azad-lyra/</guid>
+      <guid>https://sashazd.github.io/publication/2019-azad-lyra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generative AI in Simulated Environments</title>
-      <link>http://localhost:1313/talk/2018-umumbai-generativeaisimulation/</link>
+      <link>https://sashazd.github.io/talk/2018-umumbai-generativeaisimulation/</link>
       <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2018-umumbai-generativeaisimulation/</guid>
+      <guid>https://sashazd.github.io/talk/2018-umumbai-generativeaisimulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Villanelle: Towards Authorable Autonomous Characters in Interactive Narrative</title>
-      <link>http://localhost:1313/publication/2018-martens-villanelle/</link>
+      <link>https://sashazd.github.io/publication/2018-martens-villanelle/</link>
       <pubDate>Wed, 21 Nov 2018 13:56:39 -0500</pubDate>
-      <guid>http://localhost:1313/publication/2018-martens-villanelle/</guid>
+      <guid>https://sashazd.github.io/publication/2018-martens-villanelle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Addressing the Elephant in the Room: Opinionated Virtual Characters.</title>
-      <link>http://localhost:1313/publication/2018-azad-addressing/</link>
+      <link>https://sashazd.github.io/publication/2018-azad-addressing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2018-azad-addressing/</guid>
+      <guid>https://sashazd.github.io/publication/2018-azad-addressing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards generating narratives for the real world</title>
-      <link>http://localhost:1313/publication/2018-azad-towards/</link>
+      <link>https://sashazd.github.io/publication/2018-azad-towards/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2018-azad-towards/</guid>
+      <guid>https://sashazd.github.io/publication/2018-azad-towards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scheduling Live Interactive Narratives with Mixed-Integer Linear Programming</title>
-      <link>http://localhost:1313/publication/2017-azad-scheduling/</link>
+      <link>https://sashazd.github.io/publication/2017-azad-scheduling/</link>
       <pubDate>Tue, 07 Nov 2017 16:56:50 -0400</pubDate>
-      <guid>http://localhost:1313/publication/2017-azad-scheduling/</guid>
+      <guid>https://sashazd.github.io/publication/2017-azad-scheduling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Building and Sustaining a Computer Science Innovation Ecosystem</title>
-      <link>http://localhost:1313/talk/2017-upitt-nsficorps/</link>
+      <link>https://sashazd.github.io/talk/2017-upitt-nsficorps/</link>
       <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2017-upitt-nsficorps/</guid>
+      <guid>https://sashazd.github.io/talk/2017-upitt-nsficorps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixed Reality Meets Procedural Content Generation in Video Games</title>
-      <link>http://localhost:1313/publication/2016-azad-mixed/</link>
+      <link>https://sashazd.github.io/publication/2016-azad-mixed/</link>
       <pubDate>Fri, 07 Oct 2016 16:04:02 -0500</pubDate>
-      <guid>http://localhost:1313/publication/2016-azad-mixed/</guid>
+      <guid>https://sashazd.github.io/publication/2016-azad-mixed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Procedural Level Generation for Augmented Reality Games</title>
-      <link>http://localhost:1313/publication/2016-azad-procedural/</link>
+      <link>https://sashazd.github.io/publication/2016-azad-procedural/</link>
       <pubDate>Fri, 07 Oct 2016 15:11:02 -0500</pubDate>
-      <guid>http://localhost:1313/publication/2016-azad-procedural/</guid>
+      <guid>https://sashazd.github.io/publication/2016-azad-procedural/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knowledge extraction and annotation for cross-domain textual case-based reasoning in biologically inspired design</title>
-      <link>http://localhost:1313/publication/2016-rugaber-knowledge/</link>
+      <link>https://sashazd.github.io/publication/2016-rugaber-knowledge/</link>
       <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2016-rugaber-knowledge/</guid>
+      <guid>https://sashazd.github.io/publication/2016-rugaber-knowledge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI and Procedural Content Generation for Mixed Reality</title>
-      <link>http://localhost:1313/talk/2015-ggdc-keynote/</link>
+      <link>https://sashazd.github.io/talk/2015-ggdc-keynote/</link>
       <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2015-ggdc-keynote/</guid>
+      <guid>https://sashazd.github.io/talk/2015-ggdc-keynote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artificial Intelligence for Mixed Reality Entertainment</title>
-      <link>http://localhost:1313/project/mr-pcg/</link>
+      <link>https://sashazd.github.io/project/mr-pcg/</link>
       <pubDate>Thu, 27 Aug 2015 16:47:01 -0500</pubDate>
-      <guid>http://localhost:1313/project/mr-pcg/</guid>
+      <guid>https://sashazd.github.io/project/mr-pcg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Other</title>
-      <link>http://localhost:1313/project/other/</link>
+      <link>https://sashazd.github.io/project/other/</link>
       <pubDate>Fri, 28 Feb 2014 16:07:35 -0500</pubDate>
-      <guid>http://localhost:1313/project/other/</guid>
+      <guid>https://sashazd.github.io/project/other/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CV</title>
-      <link>http://localhost:1313/cv/</link>
+      <link>https://sashazd.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
+      <guid>https://sashazd.github.io/cv/</guid>
       <description>&lt;p&gt;For my full CV click here&amp;hellip;&lt;/p&gt;
 </description>
     </item>

@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Procedural Content Generation | Sasha Azad</title>
-    <link>http://localhost:1313/tags/procedural-content-generation/</link>
-      <atom:link href="http://localhost:1313/tags/procedural-content-generation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sashazd.github.io/tags/procedural-content-generation/</link>
+      <atom:link href="https://sashazd.github.io/tags/procedural-content-generation/index.xml" rel="self" type="application/rss+xml" />
     <description>Procedural Content Generation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Apr 2023 14:24:33 -0500</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Procedural Content Generation</title>
-      <link>http://localhost:1313/tags/procedural-content-generation/</link>
+      <link>https://sashazd.github.io/tags/procedural-content-generation/</link>
     </image>
     
     <item>
       <title>Ph.D. Proposal - The Little Computer People Taxonomy and Social Physics Engine</title>
-      <link>http://localhost:1313/publication/phd-proposal/</link>
+      <link>https://sashazd.github.io/publication/phd-proposal/</link>
       <pubDate>Fri, 28 Apr 2023 14:24:33 -0500</pubDate>
-      <guid>http://localhost:1313/publication/phd-proposal/</guid>
+      <guid>https://sashazd.github.io/publication/phd-proposal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ph.D. Quals - Lyra: Simulating Believable Opinionated NPCs (Extended)</title>
-      <link>http://localhost:1313/publication/phd-quals/</link>
+      <link>https://sashazd.github.io/publication/phd-quals/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/phd-quals/</guid>
+      <guid>https://sashazd.github.io/publication/phd-quals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lyra: Simulating Believable Opinionated Virtual Characters</title>
-      <link>http://localhost:1313/publication/2019-azad-lyra/</link>
+      <link>https://sashazd.github.io/publication/2019-azad-lyra/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2019-azad-lyra/</guid>
+      <guid>https://sashazd.github.io/publication/2019-azad-lyra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixed Reality Meets Procedural Content Generation in Video Games</title>
-      <link>http://localhost:1313/publication/2016-azad-mixed/</link>
+      <link>https://sashazd.github.io/publication/2016-azad-mixed/</link>
       <pubDate>Fri, 07 Oct 2016 16:04:02 -0500</pubDate>
-      <guid>http://localhost:1313/publication/2016-azad-mixed/</guid>
+      <guid>https://sashazd.github.io/publication/2016-azad-mixed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Procedural Level Generation for Augmented Reality Games</title>
-      <link>http://localhost:1313/publication/2016-azad-procedural/</link>
+      <link>https://sashazd.github.io/publication/2016-azad-procedural/</link>
       <pubDate>Fri, 07 Oct 2016 15:11:02 -0500</pubDate>
-      <guid>http://localhost:1313/publication/2016-azad-procedural/</guid>
+      <guid>https://sashazd.github.io/publication/2016-azad-procedural/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI and Procedural Content Generation for Mixed Reality</title>
-      <link>http://localhost:1313/talk/2015-ggdc-keynote/</link>
+      <link>https://sashazd.github.io/talk/2015-ggdc-keynote/</link>
       <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2015-ggdc-keynote/</guid>
+      <guid>https://sashazd.github.io/talk/2015-ggdc-keynote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artificial Intelligence for Mixed Reality Entertainment</title>
-      <link>http://localhost:1313/project/mr-pcg/</link>
+      <link>https://sashazd.github.io/project/mr-pcg/</link>
       <pubDate>Thu, 27 Aug 2015 16:47:01 -0500</pubDate>
-      <guid>http://localhost:1313/project/mr-pcg/</guid>
+      <guid>https://sashazd.github.io/project/mr-pcg/</guid>
       <description></description>
     </item>
     

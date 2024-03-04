@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Misinformation | Sasha Azad</title>
-    <link>http://localhost:1313/tags/misinformation/</link>
-      <atom:link href="http://localhost:1313/tags/misinformation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sashazd.github.io/tags/misinformation/</link>
+      <atom:link href="https://sashazd.github.io/tags/misinformation/index.xml" rel="self" type="application/rss+xml" />
     <description>Misinformation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Misinformation</title>
-      <link>http://localhost:1313/tags/misinformation/</link>
+      <link>https://sashazd.github.io/tags/misinformation/</link>
     </image>
     
     <item>
       <title>Addressing the Elephant in the Room: Opinionated Virtual Characters.</title>
-      <link>http://localhost:1313/publication/2018-azad-addressing/</link>
+      <link>https://sashazd.github.io/publication/2018-azad-addressing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2018-azad-addressing/</guid>
+      <guid>https://sashazd.github.io/publication/2018-azad-addressing/</guid>
       <description></description>
     </item>
     

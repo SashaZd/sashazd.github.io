@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Martens | Sasha Azad</title>
-    <link>http://localhost:1313/authors/chris-martens/</link>
-      <atom:link href="http://localhost:1313/authors/chris-martens/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sashazd.github.io/authors/chris-martens/</link>
+      <atom:link href="https://sashazd.github.io/authors/chris-martens/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris Martens</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Chris Martens</title>
-      <link>http://localhost:1313/authors/chris-martens/</link>
+      <link>https://sashazd.github.io/authors/chris-martens/</link>
     </image>
     
     <item>
       <title>Anthology: A Social Simulation Framework</title>
-      <link>http://localhost:1313/publication/2022-azad-anthology/</link>
+      <link>https://sashazd.github.io/publication/2022-azad-anthology/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2022-azad-anthology/</guid>
+      <guid>https://sashazd.github.io/publication/2022-azad-anthology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Little Computer People: A Survey and Taxonomy of Simulated Models of Social Interaction</title>
-      <link>http://localhost:1313/publication/2021-azad-little/</link>
+      <link>https://sashazd.github.io/publication/2021-azad-little/</link>
       <pubDate>Wed, 13 Oct 2021 20:56:16 -0400</pubDate>
-      <guid>http://localhost:1313/publication/2021-azad-little/</guid>
+      <guid>https://sashazd.github.io/publication/2021-azad-little/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designing a Combined World and Story Procedural Content Generation Engine</title>
-      <link>http://localhost:1313/publication/2021-lech-designing/</link>
+      <link>https://sashazd.github.io/publication/2021-lech-designing/</link>
       <pubDate>Mon, 11 Oct 2021 16:14:12 -0400</pubDate>
-      <guid>http://localhost:1313/publication/2021-lech-designing/</guid>
+      <guid>https://sashazd.github.io/publication/2021-lech-designing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intertwining World and Narrative Generation for a Mobile Role-playing Game</title>
-      <link>http://localhost:1313/publication/2021-jonasson-intertwining/</link>
+      <link>https://sashazd.github.io/publication/2021-jonasson-intertwining/</link>
       <pubDate>Mon, 11 Oct 2021 16:14:12 -0400</pubDate>
-      <guid>http://localhost:1313/publication/2021-jonasson-intertwining/</guid>
+      <guid>https://sashazd.github.io/publication/2021-jonasson-intertwining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Spectrum of Audience Interactivity for Entertainment Domains (Won best paper)</title>
-      <link>http://localhost:1313/publication/2019-striner-spectrum/</link>
+      <link>https://sashazd.github.io/publication/2019-striner-spectrum/</link>
       <pubDate>Fri, 22 Nov 2019 16:35:51 -0400</pubDate>
-      <guid>http://localhost:1313/publication/2019-striner-spectrum/</guid>
+      <guid>https://sashazd.github.io/publication/2019-striner-spectrum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lyra: Simulating Believable Opinionated Virtual Characters</title>
-      <link>http://localhost:1313/publication/2019-azad-lyra/</link>
+      <link>https://sashazd.github.io/publication/2019-azad-lyra/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2019-azad-lyra/</guid>
+      <guid>https://sashazd.github.io/publication/2019-azad-lyra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Villanelle: Towards Authorable Autonomous Characters in Interactive Narrative</title>
-      <link>http://localhost:1313/publication/2018-martens-villanelle/</link>
+      <link>https://sashazd.github.io/publication/2018-martens-villanelle/</link>
       <pubDate>Wed, 21 Nov 2018 13:56:39 -0500</pubDate>
-      <guid>http://localhost:1313/publication/2018-martens-villanelle/</guid>
+      <guid>https://sashazd.github.io/publication/2018-martens-villanelle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Addressing the Elephant in the Room: Opinionated Virtual Characters.</title>
-      <link>http://localhost:1313/publication/2018-azad-addressing/</link>
+      <link>https://sashazd.github.io/publication/2018-azad-addressing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2018-azad-addressing/</guid>
+      <guid>https://sashazd.github.io/publication/2018-azad-addressing/</guid>
       <description></description>
     </item>
     

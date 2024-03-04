@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Autonomous Agents | Sasha Azad</title>
-    <link>http://localhost:1313/tags/autonomous-agents/</link>
-      <atom:link href="http://localhost:1313/tags/autonomous-agents/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sashazd.github.io/tags/autonomous-agents/</link>
+      <atom:link href="https://sashazd.github.io/tags/autonomous-agents/index.xml" rel="self" type="application/rss+xml" />
     <description>Autonomous Agents</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Apr 2023 14:24:33 -0500</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/icon-192.png</url>
+      <url>https://sashazd.github.io/img/icon-192.png</url>
       <title>Autonomous Agents</title>
-      <link>http://localhost:1313/tags/autonomous-agents/</link>
+      <link>https://sashazd.github.io/tags/autonomous-agents/</link>
     </image>
     
     <item>
       <title>Ph.D. Proposal - The Little Computer People Taxonomy and Social Physics Engine</title>
-      <link>http://localhost:1313/publication/phd-proposal/</link>
+      <link>https://sashazd.github.io/publication/phd-proposal/</link>
       <pubDate>Fri, 28 Apr 2023 14:24:33 -0500</pubDate>
-      <guid>http://localhost:1313/publication/phd-proposal/</guid>
+      <guid>https://sashazd.github.io/publication/phd-proposal/</guid>
       <description></description>
     </item>
     
