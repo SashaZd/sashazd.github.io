@@ -25,7 +25,9 @@
       <link>https://sashazd.github.io/publication/2016-azad-procedural/</link>
       <pubDate>Fri, 07 Oct 2016 15:11:02 -0500</pubDate>
       <guid>https://sashazd.github.io/publication/2016-azad-procedural/</guid>
-      <description></description>
+      <description>&lt;p&gt;We argue that mixed reality games benefit from artificial intelligence beyond machine vision surface detection. In particular, we argue that a class of artificial intelligence algorithms called Procedural Content Generation (PCG) can automatically optimize players’ gameplay experience by accounting for the specific configuration of players’ unique physical environments. Procedural content generation is the use of algorithms to automate the production of various aspects of computer games, such as terrain, levels, missions, weapons, and monsters. Artificial intelligence approaches to PCG treat the creation of game content as an optimization problem —- the attempt to find a set of parameters for a specific type of content that maximizes an evaluation function.&lt;/p&gt;
+&lt;p&gt;We introduce a mixed reality game, MR Lemmings, which uses PCG algorithms to place a set of virtual game assets that will affect the player’s interaction with the physical environment. The game was developed as a prototype for the exploration of the ways in which procedural content generation can reason about the affordances of physical environments in mixed reality games.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
